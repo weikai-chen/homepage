@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs | 陈伟凯</title>
+    <link>https://people.umass.edu/weikaichen/zh/tags/emacs/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/zh/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emacs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2019</copyright><lastBuildDate>Wed, 21 Aug 2019 15:57:11 -0400</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>Emacs</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/emacs/</link>
+    </image>
+    
+    <item>
+      <title>Emacs Academic Tools</title>
+      <link>https://people.umass.edu/weikaichen/zh/post/emacs-academic-tools/</link>
+      <pubDate>Wed, 21 Aug 2019 15:57:11 -0400</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/post/emacs-academic-tools/</guid>
+      <description>
+
+&lt;p&gt;I use &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding and writing. In this post, I will share my customization and introduce some academic tools I use with Emacs.&lt;/p&gt;
+
+&lt;h2 id=&#34;emacs-as-a-latex-editor&#34;&gt;Emacs as a $\LaTeX$ editor&lt;/h2&gt;
+
+&lt;p&gt;The package &lt;a href=&#34;https://www.gnu.org/software/auctex/&#34; target=&#34;_blank&#34;&gt;AUCTex&lt;/a&gt; together with &lt;a href=&#34;https://www.gnu.org/software/auctex/reftex.html&#34; target=&#34;_blank&#34;&gt;RefTex&lt;/a&gt; make Emacs one of the best $\LaTeX$ editors&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;compile-and-locate-tex-source&#34;&gt;Compile and Locate Tex Source&lt;/h3&gt;
+
+&lt;p&gt;To compile the tex file, press &lt;code&gt;Ctrl&lt;/code&gt; together with &lt;code&gt;c&lt;/code&gt;, and then &lt;code&gt;a&lt;/code&gt; (&lt;code&gt;C-c a&lt;/code&gt;). It will show the pdf when finished. To locate the Tex source, just double click on the pdf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-pdf-code.png&#34; data-caption=&#34;Locate the Tex Source&#34;&gt;
+&lt;img src=&#34;screenshot-pdf-code.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Locate the Tex Source
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;h4 id=&#34;navigation&#34;&gt;Navigation&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;code&gt;C-c =&lt;/code&gt; to show the table of content, then you can use the following commands to navigate in your document.
+&lt;center&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;SPC&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;view&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;[l]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;show labels&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;TAB&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;goto&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;[f]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;follow as you move&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;RET&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;goto + hide&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;[n]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;next line&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;[q]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;quit&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;[p]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;previous line&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;[r]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;rescan&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;[?]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;help&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-reftex.png&#34; data-caption=&#34;Show the Table of Content of the Tex file&#34;&gt;
+&lt;img src=&#34;screenshot-reftex.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Show the Table of Content of the Tex file
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;command-insertion&#34;&gt;Command Insertion&lt;/h4&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;C-c C-s&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;insert section&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;C-c C-e&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;insert Latex    environment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;M-RET&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;insert item&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;C-c ]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;complete   LaTex  environment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;insert-references&#34;&gt;Insert References&lt;/h3&gt;
+
+&lt;h4 id=&#34;insert-citations&#34;&gt;Insert Citations&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;code&gt;C-c  [&lt;/code&gt; (Press &lt;code&gt;Ctrl&lt;/code&gt; together with &lt;code&gt;c&lt;/code&gt;, then &lt;code&gt;[&lt;/code&gt;) to select the format of citation. For example, press &lt;code&gt;u&lt;/code&gt; to choose &lt;code&gt;autocite&lt;/code&gt;. Then enter the keyword to search in your bibliography.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-citation.png&#34; data-caption=&#34;Insert a citation&#34;&gt;
+&lt;img src=&#34;screenshot-citation.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Insert a citation
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;insert-cross-references&#34;&gt;Insert Cross-References&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;code&gt;C-c  )&lt;/code&gt; to select the type of reference, e.g., &lt;code&gt;[e]&lt;/code&gt;quation, then press &lt;code&gt;e&lt;/code&gt; to show all the equations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-insert-equation.png&#34; data-caption=&#34;Insert a Cross-Reference to an Equation.&#34;&gt;
+&lt;img src=&#34;screenshot-insert-equation.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Insert a Cross-Reference to an Equation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;shortcuts-for-math-fonts-etc&#34;&gt;Shortcuts for Math, Fonts, etc&lt;/h3&gt;
+
+&lt;p&gt;Press &lt;code&gt;C-c   ~&lt;/code&gt; to enable the Latex-Math Mode. In the math mode, press ` to insert greek letter or symbols, e.g., &lt;code&gt;a&lt;/code&gt; for $\alpha$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-latex-math.png&#34; data-caption=&#34;Latex-Math Mode&#34;&gt;
+&lt;img src=&#34;screenshot-latex-math.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Latex-Math Mode
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+See the &lt;a href=&#34;https://ftp.gnu.org/gnu/auctex/11.88-extra/tex-ref.pdf&#34; target=&#34;_blank&#34;&gt;AUCTex Reference Card&lt;/a&gt; for more commands.&lt;/p&gt;
+
+&lt;h2 id=&#34;emacs-as-a-bibliography-management-software&#34;&gt;Emacs as a Bibliography Management Software&lt;/h2&gt;
+
+&lt;p&gt;I use &lt;a href=&#34;https://www.zotero.org&#34; target=&#34;_blank&#34;&gt;Zetero&lt;/a&gt;  to collect my bibliography together pdf files, and &lt;a href=&#34;https://github.com/tmalsburg/helm-bibtex&#34; target=&#34;_blank&#34;&gt;ivy-bibtex&lt;/a&gt; in Emacs to quickly search the entry, open the pdf, and edit the corresponding note.&lt;/p&gt;
+
+&lt;p&gt;Press &lt;code&gt;C-c C-r&lt;/code&gt; to search.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-ivy-bibtex.png&#34; data-caption=&#34;Search for entries&#34;&gt;
+&lt;img src=&#34;screenshot-ivy-bibtex.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Search for entries
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+Press &lt;code&gt;M-o&lt;/code&gt; (&lt;code&gt;Alt&lt;/code&gt; + &lt;code&gt;o&lt;/code&gt;) to show the actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-ivy-menu.png&#34; data-caption=&#34;The Menu of possible Actions.&#34;&gt;
+&lt;img src=&#34;screenshot-ivy-menu.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The Menu of possible Actions.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+For example, to edit the note, press &lt;code&gt;e&lt;/code&gt;, then it will open the note or create anew heading in the file entitled &lt;code&gt;ref.org&lt;/code&gt;.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-ivy-note.png&#34; data-caption=&#34;Edit note corresponding to the entry.&#34;&gt;
+&lt;img src=&#34;screenshot-ivy-note.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Edit note corresponding to the entry.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;my-customization&#34;&gt;My Customization&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;(defvar my/bib-file-location &amp;quot;~/Documents/Research/library.bib&amp;quot;
+  &amp;quot;Where I keep my bib file.&amp;quot;)
+
+;; Latex
+;; from https://nasseralkmim.github.io/notes/2016/08/21/my-latex-environment/
+(use-package tex-site
+  :ensure auctex
+  :mode (&amp;quot;\\.tex\\&#39;&amp;quot; . latex-mode)
+  :config
+  (setq TeX-auto-save t)
+  (setq TeX-parse-self t)
+  (setq-default TeX-master nil)
+  (add-hook &#39;LaTeX-mode-hook
+            (lambda ()
+              ;;(setq TeX-command-default &amp;quot;latexmk&amp;quot;)
+              (rainbow-delimiters-mode)
+              (company-mode)
+              (smartparens-mode)
+              (turn-on-reftex)
+              (setq reftex-plug-into-AUCTeX t)
+              (reftex-isearch-minor-mode)
+              (setq TeX-PDF-mode t)
+              (setq TeX-source-correlate-method &#39;synctex)
+              (setq TeX-source-correlate-start-server t)))
+
+  ;; Update PDF buffers after successful LaTeX runs
+  (add-hook &#39;TeX-after-TeX-LaTeX-command-finished-hook
+            #&#39;TeX-revert-document-buffer)
+
+  ;; to use pdfview with auctex
+  (add-hook &#39;LaTeX-mode-hook &#39;pdf-tools-install)
+
+  ;; to use pdfview with auctex
+  (setq TeX-view-program-selection &#39;((output-pdf &amp;quot;pdf-tools&amp;quot;))
+        TeX-source-correlate-start-server t)
+  (setq TeX-view-program-list &#39;((&amp;quot;pdf-tools&amp;quot; &amp;quot;TeX-pdf-tools-sync-view&amp;quot;))))
+
+(use-package ivy-bibtex
+  :ensure t
+  :bind*
+  (&amp;quot;C-c C-r&amp;quot; . ivy-bibtex)
+  :config
+  ;; https://github.com/tmalsburg/helm-bibtex
+  (setq bibtex-completion-additional-search-fields &#39;(journal booktitle))
+  (setq bibtex-completion-display-formats
+        &#39;((article       . &amp;quot;${=has-pdf=:1}${=has-note=:1} ${=type=:3} ${year:4} ${author:36} ${title:*} ${journal:40}&amp;quot;)
+          (inbook        . &amp;quot;${=has-pdf=:1}${=has-note=:1} ${=type=:3} ${year:4} ${author:36} ${title:*} Chapter ${chapter:32}&amp;quot;)
+          (incollection  . &amp;quot;${=has-pdf=:1}${=has-note=:1} ${=type=:3} ${year:4} ${author:36} ${title:*} ${booktitle:40}&amp;quot;)
+          (inproceedings . &amp;quot;${=has-pdf=:1}${=has-note=:1} ${=type=:3} ${year:4} ${author:36} ${title:*} ${booktitle:40}&amp;quot;)
+          (t             . &amp;quot;${=has-pdf=:1}${=has-note=:1} ${=type=:3} ${year:4} ${author:36} ${title:*}&amp;quot;)))
+  (setq bibtex-completion-bibliography my/bib-file-location)
+  (setq bibtex-completion-notes-path &amp;quot;~/Documents/Research/ref.org&amp;quot;)
+  ;; default is to open pdf - change that to insert citation
+  (setq bibtex-completion-pdf-field &amp;quot;File&amp;quot;)
+  (setq ivy-bibtex-default-action #&#39;ivy-bibtex-insert-citation)
+  (ivy-set-actions
+   &#39;ivy-bibtex
+   &#39;((&amp;quot;p&amp;quot; ivy-bibtex-open-any &amp;quot;Open PDF, URL, or DOI&amp;quot;)
+     (&amp;quot;e&amp;quot; ivy-bibtex-edit-notes &amp;quot;Edit notes&amp;quot;)))
+  (defun bibtex-completion-open-pdf-external (keys &amp;amp;optional fallback-action)
+    (let ((bibtex-completion-pdf-open-function
+           (lambda (fpath) (start-process &amp;quot;evince&amp;quot; &amp;quot;*helm-bibtex-evince*&amp;quot; &amp;quot;/usr/bin/evince&amp;quot; fpath))))
+      (bibtex-completion-open-pdf keys fallback-action)))
+
+  (ivy-bibtex-ivify-action bibtex-completion-open-pdf-external ivy-bibtex-open-pdf-external)
+
+  (ivy-add-actions
+   &#39;ivy-bibtex
+   &#39;((&amp;quot;P&amp;quot; ivy-bibtex-open-pdf-external &amp;quot;Open PDF file in external viewer (if present)&amp;quot;)))
+  (setq bibtex-completion-pdf-symbol &amp;quot;⌘&amp;quot;)
+  (setq bibtex-completion-notes-symbol &amp;quot;✎&amp;quot;)
+  )
+
+(use-package reftex
+  :ensure t
+  :defer t
+  :config
+  (setq reftex-cite-prompt-optional-args t)) ; Prompt for empty optional arguments in cite
+
+(use-package pdf-tools
+  :ensure t
+  :mode (&amp;quot;\\.pdf\\&#39;&amp;quot; . pdf-tools-install)
+  :bind (&amp;quot;C-c C-g&amp;quot; . pdf-sync-forward-search)
+  :defer t
+  :config
+  (setq mouse-wheel-follow-mouse t)
+  (setq pdf-view-resize-factor 1.10))
+
+;; writing tool
+(use-package academic-phrases :ensure t)
+
+(use-package synosaurus
+  :diminish synosaurus-mode
+  :init    (synosaurus-mode)
+  :config  (setq synosaurus-choose-method &#39;popup) ;; &#39;ido is default.
+  (global-set-key (kbd &amp;quot;M-#&amp;quot;) &#39;synosaurus-choose-and-replace)
+  )
+(use-package wordnut
+  :bind (&amp;quot;M-!&amp;quot; . wordnut-lookup-current-word))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;https://www.texstudio.org/&#34; target=&#34;_blank&#34;&gt;Texstudio&lt;/a&gt; is a good alternative I occasionally use.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

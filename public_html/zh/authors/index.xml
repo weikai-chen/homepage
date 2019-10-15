@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | 陈伟凯</title>
+    <link>https://people.umass.edu/weikaichen/zh/authors/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/zh/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/admin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/admin/</guid>
+      <description>&lt;p&gt;陈伟凯，广东揭阳人，麻省大学阿默斯特分校经济系的博士研究生，研究领域包括马克思主义政治经济学，社会网络等，致力于运用现代分析工具推动政治经济学的创新发展，关注的议题包括不平等,中国经济和当代资本主义等。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Naoki Yoshihara</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/naoki-yoshihara/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/naoki-yoshihara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>冯志轩</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/%E5%86%AF%E5%BF%97%E8%BD%A9/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/%E5%86%AF%E5%BF%97%E8%BD%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李帮喜</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/%E6%9D%8E%E5%B8%AE%E5%96%9C/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/%E6%9D%8E%E5%B8%AE%E5%96%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>刘凤义</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/%E5%88%98%E5%87%A4%E4%B9%89/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/%E5%88%98%E5%87%A4%E4%B9%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connie H Wang</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/connie-h-wang/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/connie-h-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shu-heng Chen</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/shu-heng-chen/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/authors/shu-heng-chen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Presentation | Weikai Chen</title>
+    <link>https://people.umass.edu/weikaichen/talk/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference Presentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 02 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>Conference Presentation</title>
+      <link>https://people.umass.edu/weikaichen/talk/</link>
+    </image>
+    
+    <item>
+      <title>Technical Change, Income Distribution, and Profitability in Multisectoral Linear Economies</title>
+      <link>https://people.umass.edu/weikaichen/talk/nu-technical-change/</link>
+      <pubDate>Sat, 02 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/talk/nu-technical-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recoverability from the Input-Output Data</title>
+      <link>https://people.umass.edu/weikaichen/talk/ape-recoverability/</link>
+      <pubDate>Fri, 25 Oct 2019 16:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/talk/ape-recoverability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent Exploitation with Intertemporal Reproducible Solution in Pre-industrial Economies.</title>
+      <link>https://people.umass.edu/weikaichen/talk/jspe-exploitation/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/talk/jspe-exploitation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/post/emacs-ox-hugo/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/authors/admin/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/authors/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/talk/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/okishio-theorem/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/profitability/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/talk/nu-technical-change/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/</loc>
+    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/input-output-analysis/</loc>
+    <lastmod>2019-10-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/recoverability/</loc>
+    <lastmod>2019-10-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/talk/ape-recoverability/</loc>
+    <lastmod>2019-10-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/authors/naoki-yoshihara/</loc>
+    <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/naoki-yoshihara/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/naoki-yoshihara/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/persistent-exploitatio/</loc>
+    <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/talk/jspe-exploitation/</loc>
+    <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/reproducible-solution/</loc>
+    <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/categories/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/emacs/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/emacs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/emacs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/categories/emacs/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/hugo/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/org/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/post/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/tools/</loc>
+    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication_types/3/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication_types/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/technical-change/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication/preprint/technical-change-profitability/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/post/emacs-ess-r/</loc>
+    <lastmod>2019-09-29T15:57:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/ess/</loc>
+    <lastmod>2019-09-29T15:57:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/magit/</loc>
+    <lastmod>2019-09-29T15:57:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/microeconomics/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/microeconomics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/microeconomics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/teaching/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/econ700/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/teaching/econ700/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/teaching/econ700/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/book-manuscript/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/post-walrasian/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/post-walrasian-micro-book/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/post/emacs-academic-tools/</loc>
+    <lastmod>2019-08-21T15:57:11-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/post/emacs-academic-tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/post/emacs-academic-tools/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/exploitation/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/exploitation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/exploitation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication/preprint/persistent-exploitation/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/lecture-note/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/lecture-note/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/lecture-note/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/note/math-for-micro/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/teaching/note/math-for-micro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/teaching/note/math-for-micro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/math/</loc>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/math/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/note/math-camp/</loc>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/teaching/note/math-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/teaching/note/math-camp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication_types/2/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/agent-based-modeling/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/agent-based-modeling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/agent-based-modeling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/authors/connie-h-wang/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/connie-h-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/connie-h-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/publication/journal-article/admission/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/authors/shu-heng-chen/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/shu-heng-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/shu-heng-chen/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connie H Wang | 陈伟凯</title>
+    <link>https://people.umass.edu/weikaichen/zh/authors/connie-h-wang/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/zh/authors/connie-h-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Connie H Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2019</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>Connie H Wang</title>
+      <link>https://people.umass.edu/weikaichen/zh/authors/connie-h-wang/</link>
+    </image>
+    
+    <item>
+      <title>Matching Impacts of School Admission Mechanisms: An Agent-Based Approach</title>
+      <link>https://people.umass.edu/weikaichen/zh/publication/admission/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/publication/admission/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

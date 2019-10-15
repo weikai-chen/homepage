@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | 陈伟凯</title>
+    <link>https://people.umass.edu/weikaichen/zh/tags/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/</link>
+    </image>
+    
+    <item>
+      <title>Microeconomics</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/microeconomics/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/microeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/emacs/</link>
+      <pubDate>Wed, 21 Aug 2019 15:57:11 -0400</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>价值</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/%E4%BB%B7%E5%80%BC/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/%E4%BB%B7%E5%80%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生产价格</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/%E7%94%9F%E4%BA%A7%E4%BB%B7%E6%A0%BC/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/%E7%94%9F%E4%BA%A7%E4%BB%B7%E6%A0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/exploitation/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/exploitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture note</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/lecture-note/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/lecture-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>国外政治经济学</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/%E5%9B%BD%E5%A4%96%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/%E5%9B%BD%E5%A4%96%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>新进展</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/%E6%96%B0%E8%BF%9B%E5%B1%95/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/%E6%96%B0%E8%BF%9B%E5%B1%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/math/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-based Modeling</title>
+      <link>https://people.umass.edu/weikaichen/zh/tags/agent-based-modeling/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/zh/tags/agent-based-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

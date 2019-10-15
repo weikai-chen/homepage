@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESS | Weikai Chen</title>
+    <link>https://people.umass.edu/weikaichen/tags/ess/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/tags/ess/index.xml" rel="self" type="application/rss+xml" />
+    <description>ESS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 29 Sep 2019 15:57:11 -0400</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>ESS</title>
+      <link>https://people.umass.edu/weikaichen/tags/ess/</link>
+    </image>
+    
+    <item>
+      <title>Emacs for R and Git</title>
+      <link>https://people.umass.edu/weikaichen/post/emacs-ess-r/</link>
+      <pubDate>Sun, 29 Sep 2019 15:57:11 -0400</pubDate>
+      <guid>https://people.umass.edu/weikaichen/post/emacs-ess-r/</guid>
+      <description>
+
+&lt;p&gt;I use &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34;&gt;Emacs&lt;/a&gt; for
+almost everything I do with my laptop, such as note-taking, GTD,
+email-checking, coding and writing. In previous
+&lt;a href=&#34;https://people.umass.edu/weikaichen/post/emacs-academic-tools/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;,
+I introduced some packages and my workflow in Emacs for $\LaTeX$ and
+bibolography management. In this post, I will introduce the
+configuration and usage of Emacs as an alternative to
+&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34;&gt;Rstudio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;emacs-as-a-gui-for-r&#34;&gt;Emacs as a GUI for R&lt;/h1&gt;
+
+&lt;p&gt;I use &lt;a href=&#34;https://ess.r-project.org/&#34; target=&#34;_blank&#34;&gt;ESS&lt;/a&gt; (Emacs Speaks Statistics). With the package installed, you could start an R session in Emacs with &lt;code&gt;M-x r&lt;/code&gt; (Press &lt;code&gt;Alt&lt;/code&gt; and &lt;code&gt;x&lt;/code&gt; together, then enter &lt;code&gt;r&lt;/code&gt;). It will ask you to set up the directory.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-r-start.png&#34; data-caption=&#34;R session in Emacs with ESS&#34;&gt;
+&lt;img src=&#34;screenshot-r-start.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    R session in Emacs with ESS
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;iess-r-interactive-mode&#34;&gt;iESS [R]: interactive mode&lt;/h2&gt;
+
+&lt;p&gt;It is now just R in terminal. You can try some commands. If you plot something, the figure would pop up in a seperate window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-r-plot.png&#34; data-caption=&#34;ESS Plot&#34;&gt;
+&lt;img src=&#34;screenshot-r-plot.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    ESS Plot
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+You can also save the buffer as usual in a file and edit it. One useful command here is &lt;code&gt;ess-transcript-clean-buffer&lt;/code&gt;, with which only the commands are kept.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-r-clean.png&#34; data-caption=&#34;Clean the Transcript: Command&#34;&gt;
+&lt;img src=&#34;screenshot-r-clean.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Clean the Transcript: Command
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-r-clean-result.png&#34; data-caption=&#34;Clean the Transcript: Result&#34;&gt;
+&lt;img src=&#34;screenshot-r-clean-result.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Clean the Transcript: Result
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;ess-with-r-script&#34;&gt;ESS with R script&lt;/h2&gt;
+
+&lt;p&gt;Open an R script in Emacs, e.g., the file created by cleaning the transcript above, use the following commands to evaluate a line, a region or the total buffer.
+&lt;center&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;C-c C-j&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;loading line&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;C-c C-r&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;loading region&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;C-c C-f&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;evaluate function&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;C-c C-b&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;evaluate buffer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;org-and-r&#34;&gt;Org and R&lt;/h1&gt;
+
+&lt;p&gt;I use &lt;a href=&#34;https://orgmode.org/&#34; target=&#34;_blank&#34;&gt;Orgmode&lt;/a&gt; in Emacs for note-taking, and prefer it to &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;rmarkdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;r-code-block-in-org&#34;&gt;R Code Block in Org&lt;/h2&gt;
+
+&lt;p&gt;With &lt;a href=&#34;https://orgmode.org/worg/org-contrib/babel/&#34; target=&#34;_blank&#34;&gt;Babel&lt;/a&gt;, a package now part of &lt;code&gt;org-mode&lt;/code&gt;, we could create a block for R code (or other languages) and run it. In an org buffer, enter &lt;code&gt;&amp;lt;s&lt;/code&gt; and then press &lt;code&gt;Enter&lt;/code&gt;, it will generate a block for source code as below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#+BEGIN_SRC 
+
+#+END_SRC
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Enter your codes and press &lt;code&gt;C-c&lt;/code&gt; to run the code.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-org-r-plot.png&#34; data-caption=&#34;R code block in org.&#34;&gt;
+&lt;img src=&#34;screenshot-org-r-plot.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    R code block in org.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+To export, press &lt;code&gt;C-c C-e&lt;/code&gt; and choose the format you&amp;rsquo;d like to export such as &lt;code&gt;html&lt;/code&gt; or &lt;code&gt;pdf&lt;/code&gt; as shown below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-org-r-export.png&#34; data-caption=&#34;Export the result with the R code and the result.&#34;&gt;
+&lt;img src=&#34;screenshot-org-r-export.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Export the result with the R code and the result.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;export-table-in-latex&#34;&gt;Export Table in $\LaTeX$&lt;/h2&gt;
+
+&lt;p&gt;Below is another example using the &lt;a href=&#34;https://cran.r-project.org/web/packages/stargazer/index.html&#34; target=&#34;_blank&#34;&gt;stargazer&lt;/a&gt; package in R to export tables in $\LaTeX$. As it requires the package &lt;code&gt;dcolumn&lt;/code&gt; in $\LaTeX$, you should add&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#+LATEX_HEADER:  \usepackage{dcolumn}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;at the head or the org file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* Another Example with Table
+#+BEGIN_SRC R :results output latex :exports results
+library(stargazer)
+##  2 OLS models
+linear.1 &amp;lt;- lm(rating ~ complaints + privileges + learning + raises + critical,data=attitude)
+linear.2 &amp;lt;- lm(rating ~ complaints + privileges + learning, data=attitude)
+## create an indicator dependent variable, and run a probit model
+attitude$high.rating &amp;lt;- (attitude$rating &amp;gt; 70)
+probit.model &amp;lt;- glm(high.rating ~ learning + critical + advance, data=attitude,family = binomial(link = &amp;quot;probit&amp;quot;))
+
+stargazer(linear.1, linear.2, probit.model, title=&amp;quot;Results&amp;quot;, align=TRUE)
+#+END_SRC
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-org-r-export-table.png&#34; data-caption=&#34;Export the Results of OLS in a Table.&#34;&gt;
+&lt;img src=&#34;screenshot-org-r-export-table.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Export the Results of OLS in a Table.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;See the &lt;a href=&#34;https://orgmode.org/manual/Working-with-source-code.html&#34; target=&#34;_blank&#34;&gt;Manual&lt;/a&gt; for more setting of the code blocks.&lt;/p&gt;
+
+&lt;h1 id=&#34;git-in-emacs&#34;&gt;Git in Emacs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://magit.vc/&#34; target=&#34;_blank&#34;&gt;Magit&lt;/a&gt; is an interface of &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; in Emacs. Assume that you have already create a github repository in the directory containing the above file &lt;code&gt;R-data-science.R&lt;/code&gt;. Press &lt;code&gt;C-x g&lt;/code&gt; to get the git status, press &lt;code&gt;s&lt;/code&gt; to stage the file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-git-stage.png&#34; data-caption=&#34;Get git status by C-x g.&#34;&gt;
+&lt;img src=&#34;screenshot-git-stage.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Get git status by &lt;code&gt;C-x g&lt;/code&gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+To commit, press &lt;code&gt;c&lt;/code&gt; you will see a menu, then press &lt;code&gt;c&lt;/code&gt; to enter the message.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-git-commit.png&#34; data-caption=&#34;Git Commit.&#34;&gt;
+&lt;img src=&#34;screenshot-git-commit.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Git Commit.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+To Push, press &lt;code&gt;P&lt;/code&gt;, and choose the place to push, e.g., &lt;code&gt;u&lt;/code&gt; for &lt;code&gt;origin/master&lt;/code&gt;. Then it will ask you to enter youruser name in github.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-git-push.png&#34; data-caption=&#34;Git Push.&#34;&gt;
+&lt;img src=&#34;screenshot-git-push.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Git Push.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+And then enter you password and it&amp;rsquo;s done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;screenshot-git-after-push.png&#34; data-caption=&#34;The git status after Push.&#34;&gt;
+&lt;img src=&#34;screenshot-git-after-push.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The git status after Push.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Check the &lt;a href=&#34;https://magit.vc/manual/magit-refcard.pdf&#34; target=&#34;_blank&#34;&gt;Reference Card&lt;/a&gt; for more usages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
