@@ -5,12 +5,28 @@
     <link>https://people.umass.edu/weikaichen/tags/</link>
       <atom:link href="https://people.umass.edu/weikaichen/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 02 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://people.umass.edu/weikaichen/tags/</link>
     </image>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://people.umass.edu/weikaichen/tags/emacs/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 -0500</pubDate>
+      <guid>https://people.umass.edu/weikaichen/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SageMath</title>
+      <link>https://people.umass.edu/weikaichen/tags/sagemath/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 -0500</pubDate>
+      <guid>https://people.umass.edu/weikaichen/tags/sagemath/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Okishio Theorem</title>
@@ -57,14 +73,6 @@
       <link>https://people.umass.edu/weikaichen/tags/reproducible-solution/</link>
       <pubDate>Sat, 19 Oct 2019 13:00:00 +0000</pubDate>
       <guid>https://people.umass.edu/weikaichen/tags/reproducible-solution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emacs</title>
-      <link>https://people.umass.edu/weikaichen/tags/emacs/</link>
-      <pubDate>Sun, 13 Oct 2019 00:00:00 -0400</pubDate>
-      <guid>https://people.umass.edu/weikaichen/tags/emacs/</guid>
       <description></description>
     </item>
     
@@ -167,8 +175,24 @@
     <item>
       <title>Agent-based Modeling</title>
       <link>https://people.umass.edu/weikaichen/tags/agent-based-modeling/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
       <guid>https://people.umass.edu/weikaichen/tags/agent-based-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequality</title>
+      <link>https://people.umass.edu/weikaichen/tags/inequality/</link>
+      <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/tags/inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Formation</title>
+      <link>https://people.umass.edu/weikaichen/tags/network-formation/</link>
+      <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/tags/network-formation/</guid>
       <description></description>
     </item>
     

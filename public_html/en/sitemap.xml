@@ -1,10 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://people.umass.edu/weikaichen/post/emacs-ox-hugo/</loc>
     <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/post/emacs-ox-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/post/emacs-ox-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/post/emacs-sagemath/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/categories/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/emacs/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/emacs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/emacs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/categories/emacs/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/categories/emacs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/categories/emacs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/post/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/sagemath/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/"
+                />
   </url>
   
   <url>
@@ -55,46 +165,36 @@
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/okishio-theorem/</loc>
     <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/okishio-theorem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/okishio-theorem/"
+                />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/profitability/</loc>
     <lastmod>2019-11-02T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/tags/</loc>
-    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/"
+                href="https://people.umass.edu/weikaichen/zh/tags/profitability/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/"
+                href="https://people.umass.edu/weikaichen/tags/profitability/"
                 />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/talk/nu-technical-change/</loc>
     <lastmod>2019-11-02T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/</loc>
-    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/"
-                />
   </url>
   
   <url>
@@ -143,68 +243,48 @@
   </url>
   
   <url>
-    <loc>https://people.umass.edu/weikaichen/categories/</loc>
-    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/tags/emacs/</loc>
-    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/emacs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/emacs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/categories/emacs/</loc>
-    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://people.umass.edu/weikaichen/tags/hugo/</loc>
     <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/hugo/"
+                />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/org/</loc>
     <lastmod>2019-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/post/</loc>
-    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/post/"
+                href="https://people.umass.edu/weikaichen/zh/tags/org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://people.umass.edu/weikaichen/post/"
+                href="https://people.umass.edu/weikaichen/tags/org/"
                 />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/tools/</loc>
     <lastmod>2019-10-13T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/tools/"
+                />
   </url>
   
   <url>
@@ -255,6 +335,16 @@
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/technical-change/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/technical-change/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/technical-change/"
+                />
   </url>
   
   <url>
@@ -265,16 +355,46 @@
   <url>
     <loc>https://people.umass.edu/weikaichen/post/emacs-ess-r/</loc>
     <lastmod>2019-09-29T15:57:11-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/post/emacs-ess-r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/post/emacs-ess-r/"
+                />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/ess/</loc>
     <lastmod>2019-09-29T15:57:11-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/ess/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/ess/"
+                />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/magit/</loc>
     <lastmod>2019-09-29T15:57:11-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/magit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/magit/"
+                />
   </url>
   
   <url>
@@ -325,16 +445,46 @@
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/book-manuscript/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/book-manuscript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/book-manuscript/"
+                />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/tags/post-walrasian/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/post-walrasian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/post-walrasian/"
+                />
   </url>
   
   <url>
     <loc>https://people.umass.edu/weikaichen/teaching/post-walrasian-micro-book/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/teaching/post-walrasian-micro-book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/teaching/post-walrasian-micro-book/"
+                />
   </url>
   
   <url>
@@ -433,6 +583,36 @@
   </url>
   
   <url>
+    <loc>https://people.umass.edu/weikaichen/tags/agent-based-modeling/</loc>
+    <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/agent-based-modeling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/agent-based-modeling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/inequality/</loc>
+    <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/talk/sfi-july-2017/</loc>
+    <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/network-formation/</loc>
+    <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://people.umass.edu/weikaichen/publication_types/2/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -444,21 +624,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://people.umass.edu/weikaichen/publication_types/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/tags/agent-based-modeling/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/agent-based-modeling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/agent-based-modeling/"
                 />
   </url>
   

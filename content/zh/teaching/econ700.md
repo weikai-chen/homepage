@@ -61,3 +61,9 @@ projects:
 # Tutorials
 - 2019-09-11: [Game Theory Review](tutorial1.pdf)
 - 2019-09-26: [Problem Set 1 Solution](ps-1-solution.pdf)
+- 2019-10-07: [Problem Set 2 Solution](ps-2-solution.pdf) | [Note on Coordination Problem](midterm-review.pdf)
+- 2019-11-04: [Problem Set 3 Solution](ps-3-solution.pdf)
+
+  <!-- + [Note on Stability](stability.pdf) | [source](stability.org) -->
+  <!-- + [Note on Coordination Problem](coordination.pdf) | [source](coordination.org) -->
+  <!-- + [Note on Social Multiplier](social-multiplier.pdf) | [source](social-multiplier.org) -->

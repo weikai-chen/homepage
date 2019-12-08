@@ -1,5 +1,5 @@
 ---
-title: 博客
+title: Posts
 
 # View.
 #   1 = List

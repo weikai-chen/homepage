@@ -3,8 +3,9 @@ title: Technical Change, Income Distribution, and Profitability in Multisectoral
 event: New School -- Umass Graduate Workshop
 event_url: ""
 location: New School, New York
-summary: "Any viable capital-using and labor-saving technical change itself (in the absence of power change) would bring about a fall in the rate of profit. This result conclusively supports the argument of the falling rate of profit due to a rising organic composition of capital as an underlying economic force."
-abstract: "This paper analyzes the effect of technical change on income distribution and profitability by comparing the long-run outcomes defined by a uniform profit rate in a multisector linear economy. We study three scenarios with (i) fixed real wage; (ii) fixed profit rate; or (iii) fixed wage-profit ratio, and show that any viable capital-using and labor-saving technical change itself (in the absence of power change) would bring about a fall in the rate of profit. Profit rate would not rise unless the technical change is so power-biased against the working-class that the wage-profit ratio can not be maintained. Our result conclusively supports the argument of the falling rate of profit due to a rising organic composition of capital as an underlying economic force."
+summary: "Any viable capital-using and labor-saving (CU-LS) technical change would bring about a fall in the profit rate if labor share is unaffected, taking into account the complicated movement of relative prices in a multisectoral setting."
+abstract: "I show that any viable capital-using and labor-saving (CU-LS) technical change would unaffected, taking into account the complicated movement of relative prices in a multisectoral setting. Challenging the conventional view, this result conclusively supports the law of declining rate of profit as an underlying economic force. Furthermore, if the rate of profit does not fall after CU-LS technical change then labor share must decline, which creates a dilemma: to avoid the instability brought by the declining profit rate, the society has no choice but to squeeze labor share and intensify the conflicts over income distribution."
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-11-02T13:00:00Z"
@@ -30,7 +31,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: /talk/nssr-umass-nov-2019.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -38,7 +39,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

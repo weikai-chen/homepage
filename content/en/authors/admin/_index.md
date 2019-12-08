@@ -18,11 +18,11 @@ organizations:
 #  url: "http://www.umass.edu/economics/graduate/umass-economics-job-candidates-2019-2020"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Political Economy, Marxian Economics, and Microeconmic Theory.
+bio: My research interests include technical change and income distribution, inequality, games on social networks, and microeconomic analysis of political economy. 
 
 interests:
-- Persistent Exploitation and Inequality
-- Technical Change and Income Distribution
+
+- Technical Change and Income Distribution, Inequality
 - Games on Social Networks
 - Microeconomic Analysis of Political Economy
 - Complexity and Agent-Based Modelling
@@ -70,6 +70,6 @@ email: ""
 # user_groups: `[]`
 
 --- 
-Weikai Chen is a Phd Candidate in Economics at Umass Amherst. His primary fields include political economy, Marxian economics, and social networks. 
+I am a Phd Candidate in Economics at Umass Amherst. My research and teaching fields include Microeconomics, Political Economy, Social Networks and Econometrics. My research lies in the intersection of microeconomic theory and political economy,  with a focus on inequality, technical change and income distribution. One recurring theme of my current research is to show the limitations of the capitalism even with the utopian perfect competition, for instance, the tension between labor share and profitability, persistent unequal exchange of labor and the inability to determine income distribution.
 
-He is on the job market in 2019-2020 and will be available for interviews at the ASSA 2020 meeting in San Diego. 
+I am on the job market in 2019-2020 and will be available for interviews at the ASSA 2020 meeting in San Diego. 

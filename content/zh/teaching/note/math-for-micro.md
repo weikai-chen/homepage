@@ -19,7 +19,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1270&context=econ_workingpaper
-url_pdf: https://www.dropbox.com/s/1noolipq5gsm72m/lecturenote.pdf?dl=0
+url_pdf: /teaching/note/micro-701-math.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

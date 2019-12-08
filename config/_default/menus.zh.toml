@@ -36,5 +36,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "简历"
-  url = "files/cv.pdf"
+  url = "https://people.umass.edu/weikaichen/files/cv-zh.pdf"
   weight = 70
