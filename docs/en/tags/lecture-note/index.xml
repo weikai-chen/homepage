@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture note | Weikai Chen</title>
+    <link>https://people.umass.edu/weikaichen/en/tags/lecture-note/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/en/tags/lecture-note/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lecture note</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lecture note</title>
+      <link>https://people.umass.edu/weikaichen/en/tags/lecture-note/</link>
+    </image>
+    
+    <item>
+      <title>Note on Math for Micro</title>
+      <link>https://people.umass.edu/weikaichen/en/teaching/note/math-for-micro/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/en/teaching/note/math-for-micro/</guid>
+      <description>&lt;p&gt;This is a supplementary note for the discussion session of Econ 701 Spring 2019 at Umass Amherst, covering almost all the topics in the Appendix of MWG but with different order and more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math Camp @ Umass Amherst Summer 2017</title>
+      <link>https://people.umass.edu/weikaichen/en/teaching/note/math-camp/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.umass.edu/weikaichen/en/teaching/note/math-camp/</guid>
+      <description>&lt;p&gt;These notes are prepared for the math review at Umass Amherst, Summer 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

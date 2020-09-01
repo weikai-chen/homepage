@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo | Weikai Chen</title>
+    <link>https://people.umass.edu/weikaichen/en/tags/hugo/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>hugo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>hugo</title>
+      <link>https://people.umass.edu/weikaichen/en/tags/hugo/</link>
+    </image>
+    
+    <item>
+      <title>Writing Posts in Org using Ox-Hugo</title>
+      <link>https://people.umass.edu/weikaichen/en/post/emacs-ox-hugo/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://people.umass.edu/weikaichen/en/post/emacs-ox-hugo/</guid>
+      <description>&lt;p&gt;I use  
+&lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
+and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
+bibolography management and some usages Emacs as an alternative to Rstudio. In this post,
+I will show how to write posts in my website in org with Hugo.&lt;/p&gt;
+&lt;h2 id=&#34;hugo-and-ox-hugo&#34;&gt;Hugo and ox-hugo&lt;/h2&gt;
+&lt;p&gt;This website is built using 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; with the 
+&lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Theme&lt;/a&gt;. I use 
+&lt;a href=&#34;https://ox-hugo.scripter.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ox-hugo&lt;/a&gt;, a org exporter backend that exports Org to Hugo-compatible Markdown. To use ox-hugo,
+I add the following lines in the my configuration &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;;; webpage
+(require-package &#39;ox-hugo)
+(with-eval-after-load &#39;ox
+  (require &#39;ox-hugo))
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Create a org file in the directory, then I can write all my posts in org.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-writing-hugo-post-in-emacs-org-with-ox-hugo&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../../en/post/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Writing Hugo Post in Emacs Org with ox-hugo&#34;&gt;
+
+
+  &lt;img data-src=&#34;../../../en/post/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Writing Hugo Post in Emacs Org with ox-hugo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;directory-and-section&#34;&gt;Directory and Section&lt;/h2&gt;
+&lt;p&gt;At the beginning of the file, specify the directory and section, it will export the markdown file to &lt;code&gt;HUGO_BASE_DIR/content/HUGO_SECTION/&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#+HUGO_SECTION: en/post
+#+HUGO_BASE_DIR:~/academic-homepage
+#+hugo_weight: auto
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;For example, with the above setting, this post will be exported in  &lt;code&gt;~/academic-homepage/content/en/post/&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;enable-auto-export&#34;&gt;Enable Auto Export&lt;/h2&gt;
+&lt;p&gt;At the end of the file, add the following to enable auto-export. Then every time you save the org file, ox-hugo will automatically
+export the files.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;exporting-properties-for-each-post&#34;&gt;Exporting Properties for each Post&lt;/h2&gt;
+&lt;p&gt;The heading would become the title of the post.  Use &lt;code&gt;C-c C-q&lt;/code&gt; the set the tags, which would become the tags for the post.
+A &lt;strong&gt;TODO&lt;/strong&gt; heading will make the post as a draft.&lt;/p&gt;
+&lt;p&gt;Add the following properties to specify the file name, date of exportation, and hugo customized front matter, e.g., summary.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:PROPERTIES:
+:EXPORT_HUGO_SECTION: en/post/emacs-ox-hugo
+:EXPORT_FILE_NAME: index
+:EXPORT_DATE: 2019-10-13
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :summary Writing hugo post in Emacs org.
+:END:
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note that I put each post in a folder within the directory &lt;code&gt;post&lt;/code&gt;.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;In my case &lt;code&gt;init-local.el&lt;/code&gt;, as I use the configuration by 
+&lt;a href=&#34;https://github.com/purcell/emacs.d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purcell&lt;/a&gt;. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

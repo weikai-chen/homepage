@@ -6,7 +6,7 @@
 
 # Title of your site
 title = "Weikai Chen"
-publishDir = "./public_html"
+publishDir = "./docs"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://people.umass.edu/weikaichen/"
