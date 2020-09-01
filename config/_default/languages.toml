@@ -13,7 +13,7 @@
   contentDir = "content/zh"
   title = "陈伟凯"
   [zh.params]
-    description = "Site description in Chinese..."
+    description = "陈伟凯的个人主页"
   [[zh.menu.main]]
     name = "个人简介"
     url = "#about"

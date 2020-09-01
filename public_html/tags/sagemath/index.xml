@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SageMath | Weikai Chen</title>
+    <link>https://people.umass.edu/weikaichen/tags/sagemath/</link>
+      <atom:link href="https://people.umass.edu/weikaichen/tags/sagemath/index.xml" rel="self" type="application/rss+xml" />
+    <description>SageMath</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://people.umass.edu/weikaichen/img/icon-192.png</url>
+      <title>SageMath</title>
+      <link>https://people.umass.edu/weikaichen/tags/sagemath/</link>
+    </image>
+    
+    <item>
+      <title>SageMath in Emacs</title>
+      <link>https://people.umass.edu/weikaichen/post/emacs-sagemath/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 -0500</pubDate>
+      <guid>https://people.umass.edu/weikaichen/post/emacs-sagemath/</guid>
+      <description>&lt;p&gt;I use  &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
+and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
+bibolography management, the use of  Emacs as an alternative to Rstudio, and writing posts in org with Hugo.
+In this post, I will introduce the use of &lt;a href=&#34;http://www.sagemath.org/&#34;&gt;SageMath&lt;/a&gt; in Emacs.&lt;/p&gt;
+&lt;h2 id=&#34;sagemath&#34;&gt;SageMath&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sagemath.org/&#34;&gt;SageMath&lt;/a&gt; a free open-source mathematics software system based on
+Python.  As claimed in the website, the aim is to create &amp;ldquo;a viable
+free open source alternative to Magma, Maple, Mathematica and Matlab.&amp;rdquo;
+For example, you can do symbolic maths and ask Sage to produce the \(\LaTeX\) code.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sage&#34; data-lang=&#34;sage&#34;&gt;var(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;alpha,x,y&amp;#39;&lt;/span&gt;)
+f &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; x&lt;span style=&#34;color:#f92672&#34;&gt;^&lt;/span&gt;alpha&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;y&lt;span style=&#34;color:#f92672&#34;&gt;^&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;alpha)
+f&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;differentiate(x)
+latex(f&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;differentiate(x))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;(alpha, x, y)
+alpha*x^(alpha - 1)*y^(-alpha + 1)
+\alpha x^{\alpha - 1} y^{-\alpha + 1}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It is easy to plot a function, or find a root of a function numerically.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sage&#34; data-lang=&#34;sage&#34;&gt;P &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plot(sin(x), (&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;pi), figsize&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;[&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;]); P
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../ox-hugo/sin.png&#34; &gt;
+&lt;img src=&#34;../../ox-hugo/sin.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sage&#34; data-lang=&#34;sage&#34;&gt;g &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; sin(x) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; (&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; x&lt;span style=&#34;color:#f92672&#34;&gt;^&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;)
+find_root(g, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;1.4096240040025754
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;sagemath-in-emacs&#34;&gt;SageMath in Emacs&lt;/h2&gt;
+&lt;p&gt;I use &lt;code&gt;sage-shell-mode&lt;/code&gt; and &lt;code&gt;ob-sagemath&lt;/code&gt; in Emacs with the following configuration.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-emacs-lisp&#34; data-lang=&#34;emacs-lisp&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;;; sagemath&lt;/span&gt;
+(require &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;sage-shell-mode&lt;/span&gt;)
+(sage-shell:define-alias)
+&lt;span style=&#34;color:#75715e&#34;&gt;;;Ob-sagemath supports only evaluating with a session.&lt;/span&gt;
+(setq org-babel-default-header-args:sage &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#39;&lt;/span&gt;((:session &lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;t&lt;/span&gt;)
+                                           (:results &lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;output&amp;#34;&lt;/span&gt;)))
+
+&lt;span style=&#34;color:#75715e&#34;&gt;;; C-c c for asynchronous evaluating (only for SageMath code blocks).&lt;/span&gt;
+(with-eval-after-load &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;org&amp;#34;&lt;/span&gt;
+  (&lt;span style=&#34;color:#a6e22e&#34;&gt;define-key&lt;/span&gt; org-mode-map (kbd &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;C-c c&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;ob-sagemath-execute-async&lt;/span&gt;))
+
+&lt;span style=&#34;color:#75715e&#34;&gt;;; Do not confirm before evaluation&lt;/span&gt;
+(setq org-confirm-babel-evaluate &lt;span style=&#34;color:#66d9ef&#34;&gt;nil&lt;/span&gt;)
+
+&lt;span style=&#34;color:#75715e&#34;&gt;;; Do not evaluate code blocks when exporting.&lt;/span&gt;
+(setq org-export-babel-evaluate &lt;span style=&#34;color:#66d9ef&#34;&gt;nil&lt;/span&gt;)
+
+&lt;span style=&#34;color:#75715e&#34;&gt;;; Show images when opening a file.&lt;/span&gt;
+(setq org-startup-with-inline-images &lt;span style=&#34;color:#66d9ef&#34;&gt;t&lt;/span&gt;)
+
+&lt;span style=&#34;color:#75715e&#34;&gt;;; Show images after evaluating code blocks.&lt;/span&gt;
+(add-hook &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;org-babel-after-execute-hook&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;org-display-inline-images&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../ox-hugo/screen-sage-shell.png&#34; data-caption=&#34;Figure 1: Sage shell in Emacs using sage-shell-mode&#34;&gt;
+&lt;img src=&#34;../../ox-hugo/screen-sage-shell.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 1: Sage shell in Emacs using sage-shell-mode
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../ox-hugo/screen-sage-blocks.png&#34; data-caption=&#34;Figure 2: Script blocks using ob-sagemath&#34;&gt;
+&lt;img src=&#34;../../ox-hugo/screen-sage-blocks.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 2: Script blocks using ob-sagemath
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

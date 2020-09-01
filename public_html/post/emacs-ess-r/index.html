@@ -565,21 +565,16 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<p>I use <a href="https://www.gnu.org/software/emacs/emacs.html" target="_blank">Emacs</a> for
+      <p>I use <a href="https://www.gnu.org/software/emacs/emacs.html">Emacs</a> for
 almost everything I do with my laptop, such as note-taking, GTD,
 email-checking, coding and writing. In previous
-<a href="https://people.umass.edu/weikaichen/post/emacs-academic-tools/" target="_blank">post</a>,
+<a href="https://people.umass.edu/weikaichen/post/emacs-academic-tools/">post</a>,
 I introduced some packages and my workflow in Emacs for $\LaTeX$ and
 bibolography management. In this post, I will introduce the
 configuration and usage of Emacs as an alternative to
-<a href="https://rstudio.com/" target="_blank">Rstudio</a>.</p>
-
+<a href="https://rstudio.com/">Rstudio</a>.</p>
 <h1 id="emacs-as-a-gui-for-r">Emacs as a GUI for R</h1>
-
-<p>I use <a href="https://ess.r-project.org/" target="_blank">ESS</a> (Emacs Speaks Statistics). With the package installed, you could start an R session in Emacs with <code>M-x r</code> (Press <code>Alt</code> and <code>x</code> together, then enter <code>r</code>). It will ask you to set up the directory.</p>
-
+<p>I use <a href="https://ess.r-project.org/">ESS</a> (Emacs Speaks Statistics). With the package installed, you could start an R session in Emacs with <code>M-x r</code> (Press <code>Alt</code> and <code>x</code> together, then enter <code>r</code>). It will ask you to set up the directory.</p>
 
 
 
@@ -609,9 +604,7 @@ configuration and usage of Emacs as an alternative to
 
 </figure>
 
-
 <h2 id="iess-r-interactive-mode">iESS [R]: interactive mode</h2>
-
 <p>It is now just R in terminal. You can try some commands. If you plot something, the figure would pop up in a seperate window.
 
 
@@ -701,12 +694,9 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 
 </figure>
 </p>
-
 <h2 id="ess-with-r-script">ESS with R script</h2>
-
-<p>Open an R script in Emacs, e.g., the file created by cleaning the transcript above, use the following commands to evaluate a line, a region or the total buffer.
-<center></p>
-
+<p>Open an R script in Emacs, e.g., the file created by cleaning the transcript above, use the following commands to evaluate a line, a region or the total buffer.</p>
+<!-- raw HTML omitted -->
 <table>
 <thead>
 <tr>
@@ -716,7 +706,6 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 <th>Description</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>C-c C-j</code></td>
@@ -724,14 +713,12 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 <td><code>C-c C-r</code></td>
 <td>loading region</td>
 </tr>
-
 <tr>
 <td><code>C-c C-f</code></td>
 <td>evaluate function</td>
 <td><code>C-c C-b</code></td>
 <td>evaluate buffer</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -740,24 +727,15 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 </tr>
 </tbody>
 </table>
-
-<p></center></p>
-
+<!-- raw HTML omitted -->
 <h1 id="org-and-r">Org and R</h1>
-
-<p>I use <a href="https://orgmode.org/" target="_blank">Orgmode</a> in Emacs for note-taking, and prefer it to <a href="https://rmarkdown.rstudio.com/" target="_blank">rmarkdown</a>.</p>
-
+<p>I use <a href="https://orgmode.org/">Orgmode</a> in Emacs for note-taking, and prefer it to <a href="https://rmarkdown.rstudio.com/">rmarkdown</a>.</p>
 <h2 id="r-code-block-in-org">R Code Block in Org</h2>
-
-<p>With <a href="https://orgmode.org/worg/org-contrib/babel/" target="_blank">Babel</a>, a package now part of <code>org-mode</code>, we could create a block for R code (or other languages) and run it. In an org buffer, enter <code>&lt;s</code> and then press <code>Enter</code>, it will generate a block for source code as below.</p>
-
+<p>With <a href="https://orgmode.org/worg/org-contrib/babel/">Babel</a>, a package now part of <code>org-mode</code>, we could create a block for R code (or other languages) and run it. In an org buffer, enter <code>&lt;s</code> and then press <code>Enter</code>, it will generate a block for source code as below.</p>
 <pre><code>#+BEGIN_SRC 
 
 #+END_SRC
-</code></pre>
-
-<p>Enter your codes and press <code>C-c</code> to run the code.</p>
-
+</code></pre><p>Enter your codes and press <code>C-c</code> to run the code.</p>
 <p>
 
 
@@ -817,16 +795,10 @@ To export, press <code>C-c C-e</code> and choose the format you&rsquo;d like to 
 
 </figure>
 </p>
-
 <h2 id="export-table-in-latex">Export Table in $\LaTeX$</h2>
-
-<p>Below is another example using the <a href="https://cran.r-project.org/web/packages/stargazer/index.html" target="_blank">stargazer</a> package in R to export tables in $\LaTeX$. As it requires the package <code>dcolumn</code> in $\LaTeX$, you should add</p>
-
+<p>Below is another example using the <a href="https://cran.r-project.org/web/packages/stargazer/index.html">stargazer</a> package in R to export tables in $\LaTeX$. As it requires the package <code>dcolumn</code> in $\LaTeX$, you should add</p>
 <pre><code>#+LATEX_HEADER:  \usepackage{dcolumn}
-</code></pre>
-
-<p>at the head or the org file.</p>
-
+</code></pre><p>at the head or the org file.</p>
 <pre><code>* Another Example with Table
 #+BEGIN_SRC R :results output latex :exports results
 library(stargazer)
@@ -840,8 +812,6 @@ probit.model &lt;- glm(high.rating ~ learning + critical + advance, data=attitud
 stargazer(linear.1, linear.2, probit.model, title=&quot;Results&quot;, align=TRUE)
 #+END_SRC
 </code></pre>
-
-
 
 
 
@@ -870,12 +840,9 @@ stargazer(linear.1, linear.2, probit.model, title=&quot;Results&quot;, align=TRU
 
 </figure>
 
-
-<p>See the <a href="https://orgmode.org/manual/Working-with-source-code.html" target="_blank">Manual</a> for more setting of the code blocks.</p>
-
+<p>See the <a href="https://orgmode.org/manual/Working-with-source-code.html">Manual</a> for more setting of the code blocks.</p>
 <h1 id="git-in-emacs">Git in Emacs</h1>
-
-<p><a href="https://magit.vc/" target="_blank">Magit</a> is an interface of <a href="https://git-scm.com/" target="_blank">Git</a> in Emacs. Assume that you have already create a github repository in the directory containing the above file <code>R-data-science.R</code>. Press <code>C-x g</code> to get the git status, press <code>s</code> to stage the file.
+<p><a href="https://magit.vc/">Magit</a> is an interface of <a href="https://git-scm.com/">Git</a> in Emacs. Assume that you have already create a github repository in the directory containing the above file <code>R-data-science.R</code>. Press <code>C-x g</code> to get the git status, press <code>s</code> to stage the file.
 
 
 
@@ -995,8 +962,7 @@ And then enter you password and it&rsquo;s done.
 
 </figure>
 </p>
-
-<p>Check the <a href="https://magit.vc/manual/magit-refcard.pdf" target="_blank">Reference Card</a> for more usages.</p>
+<p>Check the <a href="https://magit.vc/manual/magit-refcard.pdf">Reference Card</a> for more usages.</p>
 
     </div>
 
@@ -1139,7 +1105,7 @@ And then enter you password and it&rsquo;s done.
     <div class="media-body">
       <h5 class="card-title"><a href="https://people.umass.edu/weikaichen/">Weikai Chen</a></h5>
       <h6 class="card-subtitle">Phd Candidate</h6>
-      <p class="card-text">My research interests include technical change and income distribution, inequality, games on social networks, and microeconomic analysis of political economy.</p>
+      <p class="card-text">My research interests include economic inequality, income distribution, Marxist political economy and Chinese economy.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1345,7 +1311,7 @@ And then enter you password and it&rsquo;s done.
   
 
   <p class="powered-by">
-    &copy;2019 &middot; 
+    ©2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

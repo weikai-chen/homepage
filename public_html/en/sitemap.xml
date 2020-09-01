@@ -23,6 +23,106 @@
   </url>
   
   <url>
+    <loc>https://people.umass.edu/weikaichen/authors/admin/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/authors/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/game-theory/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/econ702/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/microeconomics/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/microeconomics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/microeconomics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/tags/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/teaching/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/teaching/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.umass.edu/weikaichen/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/"
+                />
+  </url>
+  
+  <url>
     <loc>https://people.umass.edu/weikaichen/categories/</loc>
     <lastmod>2019-11-26T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -68,6 +168,21 @@
   </url>
   
   <url>
+    <loc>https://people.umass.edu/weikaichen/tags/org/</loc>
+    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://people.umass.edu/weikaichen/zh/tags/org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.umass.edu/weikaichen/tags/org/"
+                />
+  </url>
+  
+  <url>
     <loc>https://people.umass.edu/weikaichen/post/</loc>
     <lastmod>2019-11-26T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -88,62 +203,17 @@
   </url>
   
   <url>
-    <loc>https://people.umass.edu/weikaichen/tags/</loc>
+    <loc>https://people.umass.edu/weikaichen/tags/tools/</loc>
     <lastmod>2019-11-26T00:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/"
+                href="https://people.umass.edu/weikaichen/zh/tags/tools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/</loc>
-    <lastmod>2019-11-26T00:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/authors/admin/</loc>
-    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/authors/</loc>
-    <lastmod>2019-11-02T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/authors/"
+                href="https://people.umass.edu/weikaichen/tags/tools/"
                 />
   </url>
   
@@ -258,36 +328,6 @@
   </url>
   
   <url>
-    <loc>https://people.umass.edu/weikaichen/tags/org/</loc>
-    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/org/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/tags/tools/</loc>
-    <lastmod>2019-10-13T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/tools/"
-                />
-  </url>
-  
-  <url>
     <loc>https://people.umass.edu/weikaichen/publication_types/3/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -394,36 +434,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://people.umass.edu/weikaichen/tags/magit/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/tags/microeconomics/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/tags/microeconomics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/tags/microeconomics/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.umass.edu/weikaichen/teaching/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://people.umass.edu/weikaichen/zh/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.umass.edu/weikaichen/teaching/"
                 />
   </url>
   

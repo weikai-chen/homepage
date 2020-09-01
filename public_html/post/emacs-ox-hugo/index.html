@@ -550,26 +550,18 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<p>I use  <a href="https://www.gnu.org/software/emacs/emacs.html" target="_blank">Emacs</a> for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
+      <p>I use  <a href="https://www.gnu.org/software/emacs/emacs.html">Emacs</a> for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
 bibolography management and some usages Emacs as an alternative to Rstudio. In this post,
 I will show how to write posts in my website in org with Hugo.</p>
-
 <h2 id="hugo-and-ox-hugo">Hugo and ox-hugo</h2>
-
-<p>This website is built using <a href="https://gohugo.io/" target="_blank">Hugo</a> with the <a href="https://themes.gohugo.io/academic/" target="_blank">Academic Theme</a>. I use <a href="https://ox-hugo.scripter.co/" target="_blank">ox-hugo</a>, a org exporter backend that exports Org to Hugo-compatible Markdown. To use ox-hugo,
-I add the following lines in the my configuration&nbsp;<sup class="footnote-ref" id="fnref:fn-1"><a href="#fn:fn-1">1</a></sup>.</p>
-
+<p>This website is built using <a href="https://gohugo.io/">Hugo</a> with the <a href="https://themes.gohugo.io/academic/">Academic Theme</a>. I use <a href="https://ox-hugo.scripter.co/">ox-hugo</a>, a org exporter backend that exports Org to Hugo-compatible Markdown. To use ox-hugo,
+I add the following lines in the my configuration <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
 <pre><code>;; webpage
 (require-package 'ox-hugo)
 (with-eval-after-load 'ox
   (require 'ox-hugo))
-</code></pre>
-
-<p>Create a org file in the directory, then I can write all my posts in org.</p>
-
+</code></pre><p>Create a org file in the directory, then I can write all my posts in org.</p>
 
 
 
@@ -599,53 +591,37 @@ I add the following lines in the my configuration&nbsp;<sup class="footnote-ref"
 
 </figure>
 
-
 <h2 id="directory-and-section">Directory and Section</h2>
-
 <p>At the beginning of the file, specify the directory and section, it will export the markdown file to <code>HUGO_BASE_DIR/content/HUGO_SECTION/</code>.</p>
-
 <pre><code>#+HUGO_SECTION: en/post
 #+HUGO_BASE_DIR:~/academic-homepage
 #+hugo_weight: auto
-</code></pre>
-
-<p>For example, with the above setting, this post will be exported in  <code>~/academic-homepage/content/en/post/</code>.</p>
-
+</code></pre><p>For example, with the above setting, this post will be exported in  <code>~/academic-homepage/content/en/post/</code>.</p>
 <h2 id="enable-auto-export">Enable Auto Export</h2>
-
 <p>At the end of the file, add the following to enable auto-export. Then every time you save the org file, ox-hugo will automatically
 export the files.</p>
-
 <pre><code># Local Variables:
 # eval: (org-hugo-auto-export-mode)
 # End:
-</code></pre>
-
-<h2 id="exporting-properties-for-each-post">Exporting Properties for each Post</h2>
-
+</code></pre><h2 id="exporting-properties-for-each-post">Exporting Properties for each Post</h2>
 <p>The heading would become the title of the post.  Use <code>C-c C-q</code> the set the tags, which would become the tags for the post.
 A <strong>TODO</strong> heading will make the post as a draft.</p>
-
 <p>Add the following properties to specify the file name, date of exportation, and hugo customized front matter, e.g., summary.</p>
-
 <pre><code>:PROPERTIES:
 :EXPORT_HUGO_SECTION: en/post/emacs-ox-hugo
 :EXPORT_FILE_NAME: index
 :EXPORT_DATE: 2019-10-13
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :summary Writing hugo post in Emacs org.
 :END:
-</code></pre>
-
-<p>Note that I put each post in a folder within the directory <code>post</code>.</p>
-<div class="footnotes">
-
-<hr />
-
+</code></pre><p>Note that I put each post in a folder within the directory <code>post</code>.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
 <ol>
-<li id="fn:fn-1">In my case <code>init-local.el</code>, as I use the configuration by <a href="https://github.com/purcell/emacs.d" target="_blank">Purcell</a>.
- <a class="footnote-return" href="#fnref:fn-1"><sup>^</sup></a></li>
+<li id="fn:1" role="doc-endnote">
+<p>In my case <code>init-local.el</code>, as I use the configuration by <a href="https://github.com/purcell/emacs.d">Purcell</a>. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
-</div>
+</section>
 
     </div>
 
@@ -786,7 +762,7 @@ A <strong>TODO</strong> heading will make the post as a draft.</p>
     <div class="media-body">
       <h5 class="card-title"><a href="https://people.umass.edu/weikaichen/">Weikai Chen</a></h5>
       <h6 class="card-subtitle">Phd Candidate</h6>
-      <p class="card-text">My research interests include technical change and income distribution, inequality, games on social networks, and microeconomic analysis of political economy.</p>
+      <p class="card-text">My research interests include economic inequality, income distribution, Marxist political economy and Chinese economy.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -994,7 +970,7 @@ A <strong>TODO</strong> heading will make the post as a draft.</p>
   
 
   <p class="powered-by">
-    &copy;2019 &middot; 
+    ©2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

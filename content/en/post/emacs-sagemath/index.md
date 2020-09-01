@@ -2,7 +2,7 @@
 title = "SageMath in Emacs"
 author = ["Weikai Chen"]
 date = 2019-11-26
-tags = ["Emacs", "SageMath"]
+tags = ["Emacs", "SageMath", "tools", "org"]
 categories = ["emacs"]
 draft = false
 weight = 2002
@@ -22,14 +22,14 @@ Python.  As claimed in the website, the aim is to create "a viable
 free open source alternative to Magma, Maple, Mathematica and Matlab."
 For example, you can do symbolic maths and ask Sage to produce the \\(\LaTeX\\) code.
 
-```
+```sage
 var('alpha,x,y')
 f = x^alpha*y^(1-alpha)
 f.differentiate(x)
 latex(f.differentiate(x))
 ```
 
-```
+```text
 (alpha, x, y)
 alpha*x^(alpha - 1)*y^(-alpha + 1)
 \alpha x^{\alpha - 1} y^{-\alpha + 1}
@@ -37,19 +37,18 @@ alpha*x^(alpha - 1)*y^(-alpha + 1)
 
 It is easy to plot a function, or find a root of a function numerically.
 
-```
-P = plot(sin(x), (0, 2*pi), figsize=[5, 4]); 
-P
+```sage
+P = plot(sin(x), (0, 2*pi), figsize=[5, 4]); P
 ```
 
 {{< figure src="/ox-hugo/sin.png" >}}
 
-```
+```sage
 g = sin(x) + (1- x^2)
 find_root(g, 0, 2)
 ```
 
-```
+```text
 1.4096240040025754
 ```
 
@@ -58,7 +57,7 @@ find_root(g, 0, 2)
 
 I use `sage-shell-mode` and `ob-sagemath` in Emacs with the following configuration.
 
-```
+```emacs-lisp
 ;; sagemath
 (require 'sage-shell-mode)
 (sage-shell:define-alias)

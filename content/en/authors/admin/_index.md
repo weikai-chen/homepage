@@ -18,19 +18,20 @@ organizations:
 #  url: "http://www.umass.edu/economics/graduate/umass-economics-job-candidates-2019-2020"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technical change and income distribution, inequality, games on social networks, and microeconomic analysis of political economy. 
+bio: My research interests include economic inequality, income distribution, Marxist political economy and Chinese economy. 
 
 interests:
 
 - Technical Change and Income Distribution, Inequality
-- Games on Social Networks
+- Marxist Political Economy
+- Mathematical Economics
 - Microeconomic Analysis of Political Economy
-- Complexity and Agent-Based Modelling
+- Complexity and Agent-Based Modeling
 
 education:
   courses:
   - course: PhD in Economics
-    institution: University of Massachusetts Amherst
+    institution: University of Massachusetts Amherstmai
     year: 2020 expected
   - course: MA in Economics
     institution: Nankai University
@@ -70,6 +71,7 @@ email: ""
 # user_groups: `[]`
 
 --- 
-I am a Phd Candidate in Economics at Umass Amherst. My research and teaching fields include Microeconomics, Political Economy, Social Networks and Econometrics. My research lies in the intersection of microeconomic theory and political economy,  with a focus on inequality, technical change and income distribution. One recurring theme of my current research is to show the limitations of the capitalism even with the utopian perfect competition, for instance, the tension between labor share and profitability, persistent unequal exchange of labor and the inability to determine income distribution.
+I am a Phd Candidate in Economics at the University of Massachusetts Amherst.
 
-I am on the job market in 2019-2020 and will be available for interviews at the ASSA 2020 meeting in San Diego. 
+In Fall 2020, I will join the School of Economics at Renmin University of China as an assistant Professor. 
+My research and teaching fields include Marxist Political Economy, Microeconomics, Social Networks and Econometrics. 

@@ -68,7 +68,7 @@ Add the following properties to specify the file name, date of exportation, and 
 :END:
 #+END_SRC
 Note that I put each post in a folder within the directory =post=.
-** SageMath in Emacs                                                            :Emacs:SageMath:tools:org:
+** SageMath in Emacs :Emacs:SageMath:tools:org:
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: en/post/emacs-sagemath
 :EXPORT_FILE_NAME: index
@@ -147,6 +147,15 @@ I use =sage-shell-mode= and =ob-sagemath= in Emacs with the following configurat
 #+caption: Script blocks using ob-sagemath
 [[file:screen-sage-blocks.png]]
 
+** TODO Using Snippets in Org :Emacs:org:Snippets:tools:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: en/post/using-snippets
+:EXPORT_FILE_NAME: index
+:EXPORT_DATE: 2020-04-07
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :Using the yasnippet to write template for org exporting
+:END:
 
-* COMMENT Local Variables :ARCHIVE: # Local Variables: #
-eval: (org-hugo-auto-export-mode) # End:
+* COMMENT Local Variables :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
