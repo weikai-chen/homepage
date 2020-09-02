@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference Presentation | Weikai Chen</title>
-    <link>https://people.umass.edu/weikaichen/en/talk/</link>
-      <atom:link href="https://people.umass.edu/weikaichen/en/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chen-weikai.gitee.io/homepage/en/talk/</link>
+      <atom:link href="https://chen-weikai.gitee.io/homepage/en/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference Presentation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 02 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Sat, 02 Nov 2019 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.umass.edu/weikaichen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Conference Presentation</title>
-      <link>https://people.umass.edu/weikaichen/en/talk/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/talk/</link>
     </image>
     
     <item>
       <title>Technical Change, Income Distribution, and Profitability in Multisectoral Linear Economies</title>
-      <link>https://people.umass.edu/weikaichen/en/talk/nu-technical-change/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/talk/nu-technical-change/</link>
       <pubDate>Sat, 02 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/talk/nu-technical-change/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/talk/nu-technical-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recoverability from the Input-Output Data</title>
-      <link>https://people.umass.edu/weikaichen/en/talk/ape-recoverability/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</link>
       <pubDate>Fri, 25 Oct 2019 16:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/talk/ape-recoverability/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persistent Exploitation with Intertemporal Reproducible Solution in Pre-industrial Economies.</title>
-      <link>https://people.umass.edu/weikaichen/en/talk/jspe-exploitation/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/talk/jspe-exploitation/</link>
       <pubDate>Sat, 19 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/talk/jspe-exploitation/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/talk/jspe-exploitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inequality and Evolution of Network Structure</title>
-      <link>https://people.umass.edu/weikaichen/en/talk/sfi-july-2017/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/talk/sfi-july-2017/</link>
       <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/talk/sfi-july-2017/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/talk/sfi-july-2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Theory | Weikai Chen</title>
-    <link>https://people.umass.edu/weikaichen/en/tags/game-theory/</link>
-      <atom:link href="https://people.umass.edu/weikaichen/en/tags/game-theory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chen-weikai.gitee.io/homepage/en/tags/game-theory/</link>
+      <atom:link href="https://chen-weikai.gitee.io/homepage/en/tags/game-theory/index.xml" rel="self" type="application/rss+xml" />
     <description>Game Theory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.umass.edu/weikaichen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Game Theory</title>
-      <link>https://people.umass.edu/weikaichen/en/tags/game-theory/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/tags/game-theory/</link>
     </image>
     
     <item>
       <title>Game Theory</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/econ702/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/econ702/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/teaching/econ702/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/econ702/</guid>
       <description>&lt;h1 id=&#34;course-information&#34;&gt;Course Information&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Itai Sher&lt;/li&gt;

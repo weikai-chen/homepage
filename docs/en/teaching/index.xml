@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Weikai Chen</title>
-    <link>https://people.umass.edu/weikaichen/en/teaching/</link>
-      <atom:link href="https://people.umass.edu/weikaichen/en/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chen-weikai.gitee.io/homepage/en/teaching/</link>
+      <atom:link href="https://chen-weikai.gitee.io/homepage/en/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.umass.edu/weikaichen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/</link>
     </image>
     
     <item>
       <title>Game Theory</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/econ702/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/econ702/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/teaching/econ702/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/econ702/</guid>
       <description>&lt;h1 id=&#34;course-information&#34;&gt;Course Information&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Itai Sher&lt;/li&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>The Microeconomics of Competition, Coordination, Cooperation and Conflict</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/econ700/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/econ700/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/teaching/econ700/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/econ700/</guid>
       <description>&lt;h1 id=&#34;course-information&#34;&gt;Course Information&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Samuel Bowles&lt;/li&gt;
@@ -90,9 +90,9 @@
     
     <item>
       <title>Post-Walrasian Microeconomics</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/post-walrasian-micro-book/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/post-walrasian-micro-book/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/teaching/post-walrasian-micro-book/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/post-walrasian-micro-book/</guid>
       <description>&lt;p&gt;This page contains the title page, table of contents and some sample pages in the book manuscript coauthored with Samuel Bowles. The manuscript is produced using 
 &lt;a href=&#34;https://tufte-latex.github.io/tufte-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tufte-LaTeX&lt;/a&gt; and 
 &lt;a href=&#34;https://pgf-tikz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tikz&lt;/a&gt;.&lt;/p&gt;
@@ -389,18 +389,18 @@
     
     <item>
       <title>Note on Math for Micro</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/note/math-for-micro/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-for-micro/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/teaching/note/math-for-micro/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-for-micro/</guid>
       <description>&lt;p&gt;This is a supplementary note for the discussion session of Econ 701 Spring 2019 at Umass Amherst, covering almost all the topics in the Appendix of MWG but with different order and more details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Math Camp @ Umass Amherst Summer 2017</title>
-      <link>https://people.umass.edu/weikaichen/en/teaching/note/math-camp/</link>
+      <link>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-camp/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/en/teaching/note/math-camp/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-camp/</guid>
       <description>&lt;p&gt;These notes are prepared for the math review at Umass Amherst, Summer 2017.&lt;/p&gt;
 </description>
     </item>

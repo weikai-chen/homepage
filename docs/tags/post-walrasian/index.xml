@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-Walrasian | 陈伟凯</title>
-    <link>https://people.umass.edu/weikaichen/tags/post-walrasian/</link>
-      <atom:link href="https://people.umass.edu/weikaichen/tags/post-walrasian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chen-weikai.gitee.io/homepage/tags/post-walrasian/</link>
+      <atom:link href="https://chen-weikai.gitee.io/homepage/tags/post-walrasian/index.xml" rel="self" type="application/rss+xml" />
     <description>Post-Walrasian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2020</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.umass.edu/weikaichen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Post-Walrasian</title>
-      <link>https://people.umass.edu/weikaichen/tags/post-walrasian/</link>
+      <link>https://chen-weikai.gitee.io/homepage/tags/post-walrasian/</link>
     </image>
     
     <item>
       <title>Post-Walrasian Microeconomics</title>
-      <link>https://people.umass.edu/weikaichen/teaching/post-walrasian-micro-book/</link>
+      <link>https://chen-weikai.gitee.io/homepage/teaching/post-walrasian-micro-book/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.umass.edu/weikaichen/teaching/post-walrasian-micro-book/</guid>
+      <guid>https://chen-weikai.gitee.io/homepage/teaching/post-walrasian-micro-book/</guid>
       <description>&lt;p&gt;This page contains the title page, table of contents and some sample pages in the book manuscript coauthored with Samuel Bowles. The manuscript is produced using 
 &lt;a href=&#34;https://tufte-latex.github.io/tufte-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tufte-LaTeX&lt;/a&gt; and 
 &lt;a href=&#34;https://pgf-tikz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tikz&lt;/a&gt;.&lt;/p&gt;
