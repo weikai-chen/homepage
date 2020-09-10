@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>政治经济学 | 陈伟凯</title>
+    <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/</link>
+      <atom:link href="https://chen-weikai.gitee.io/homepage/courses/pe2020fall/index.xml" rel="self" type="application/rss+xml" />
+    <description>政治经济学</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>政治经济学</title>
+      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/</link>
+    </image>
+    
+    <item>
+      <title>第二讲：生产与占有</title>
+      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture2/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0100</pubDate>
+      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture2/</guid>
+      <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;历史唯物主义与物质生产一般,重点掌握剩余产品、阶级等概念&lt;/li&gt;
+&lt;li&gt;了解人类历史上不同的生产方式和经济制度&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;阅读材料&#34;&gt;阅读材料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;塞缪尔 · 鲍尔斯, 等,2013:《理解资本主义》 , 第五、六章&lt;/li&gt;
+&lt;li&gt;海尔布罗纳, 等,2012:《经济社会的起源》 , 第一、二章&lt;/li&gt;
+&lt;li&gt;卡尔 · 波兰尼,2017:《巨变》 , 第四章&lt;/li&gt;
+&lt;li&gt;萨林斯,2019:《石器时代经济学》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;课堂讲义&#34;&gt;课堂讲义&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../lec2.pdf&#34;&gt;第二讲：生产与占有&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>导论：经济与政治经济学</title>
+      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0100</pubDate>
+      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</guid>
+      <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍课程大纲、教学安排及考核要求等&lt;/li&gt;
+&lt;li&gt;概论资本主义发展史与当代经济问题&lt;/li&gt;
+&lt;li&gt;政治经济学的研究对象和方法论&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;阅读材料&#34;&gt;阅读材料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;塞缪尔 · 鲍尔斯, 等,2013:《理解资本主义》 , 第一章&lt;/li&gt;
+&lt;li&gt;马克思，1857:《 &amp;lt; 政治经济学批判 &amp;gt; 导言》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;课堂讲义&#34;&gt;课堂讲义&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../lec1.pdf&#34;&gt;第一讲：经济与政治经济&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

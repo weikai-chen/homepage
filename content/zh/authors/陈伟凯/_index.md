@@ -4,7 +4,7 @@ name: 陈伟凯
 
 # Username (this should match the folder name)
 authors:
-- admin
+- 陈伟凯
 
 # Is this the primary user of the site?
 superuser: true

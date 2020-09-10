@@ -55,6 +55,16 @@
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/game-theory/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/game-theory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/game-theory/"
+                />
   </url>
   
   <url>
@@ -265,21 +275,61 @@
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/talk/nu-technical-change/</loc>
     <lastmod>2019-11-02T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/talk/nu-technical-change/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/talk/nu-technical-change/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/input-output-analysis/</loc>
     <lastmod>2019-10-25T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/input-output-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/input-output-analysis/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/recoverability/</loc>
     <lastmod>2019-10-25T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/recoverability/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/recoverability/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</loc>
     <lastmod>2019-10-25T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/talk/ape-recoverability/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/"
+                />
   </url>
   
   <url>
@@ -300,16 +350,46 @@
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/persistent-exploitatio/</loc>
     <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/persistent-exploitatio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/persistent-exploitatio/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/talk/jspe-exploitation/</loc>
     <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/talk/jspe-exploitation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/talk/jspe-exploitation/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/reproducible-solution/</loc>
     <lastmod>2019-10-19T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/reproducible-solution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/reproducible-solution/"
+                />
   </url>
   
   <url>
@@ -610,16 +690,46 @@
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/inequality/</loc>
     <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/inequality/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/inequality/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/talk/sfi-july-2017/</loc>
     <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/talk/sfi-july-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/talk/sfi-july-2017/"
+                />
   </url>
   
   <url>
     <loc>https://chen-weikai.gitee.io/homepage/en/tags/network-formation/</loc>
     <lastmod>2017-07-06T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://chen-weikai.gitee.io/homepage/tags/network-formation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chen-weikai.gitee.io/homepage/en/tags/network-formation/"
+                />
   </url>
   
   <url>

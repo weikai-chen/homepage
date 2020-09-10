@@ -13,10 +13,10 @@
   url = "#posts"
   weight = 55
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+ name = "报告"
+ url = "#talks"
+ weight = 60
 
 [[main]]
   name = "科研"
@@ -25,12 +25,13 @@
 
 [[main]]
    name = "教学"
-   url = "teaching"
+   url = "courses"
    weight = 50
+
 [[main]]
   name = "联系"
   url = "#contact"
-  weight = 60
+  weight = 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

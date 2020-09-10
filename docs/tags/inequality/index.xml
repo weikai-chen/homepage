@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inequality | 陈伟凯</title>
+    <link>https://chen-weikai.gitee.io/homepage/tags/inequality/</link>
+      <atom:link href="https://chen-weikai.gitee.io/homepage/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inequality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Thu, 06 Jul 2017 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Inequality</title>
+      <link>https://chen-weikai.gitee.io/homepage/tags/inequality/</link>
+    </image>
+    
+    <item>
+      <title>Inequality and Evolution of Network Structure</title>
+      <link>https://chen-weikai.gitee.io/homepage/talk/sfi-july-2017/</link>
+      <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
+      <guid>https://chen-weikai.gitee.io/homepage/talk/sfi-july-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
