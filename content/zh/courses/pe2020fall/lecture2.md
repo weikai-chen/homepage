@@ -8,10 +8,10 @@ draft: false
 menu:
   pe2020fall:
     parent: 教学安排 
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 ## 学习内容
 1. 历史唯物主义与物质生产一般,重点掌握剩余产品、阶级等概念

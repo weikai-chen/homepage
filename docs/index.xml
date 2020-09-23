@@ -5,12 +5,36 @@
     <link>https://chen-weikai.gitee.io/homepage/</link>
       <atom:link href="https://chen-weikai.gitee.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <description>陈伟凯</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2020, 陈伟凯</copyright><lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>陈伟凯</title>
       <link>https://chen-weikai.gitee.io/homepage/</link>
     </image>
+    
+    <item>
+      <title>导论：经济与政治经济学</title>
+      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0100</pubDate>
+      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</guid>
+      <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍课程大纲、教学安排及考核要求等&lt;/li&gt;
+&lt;li&gt;概论资本主义发展史与当代经济问题&lt;/li&gt;
+&lt;li&gt;政治经济学的研究对象和方法论&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;阅读材料&#34;&gt;阅读材料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;塞缪尔 · 鲍尔斯, 等,2013:《理解资本主义》 , 第一章&lt;/li&gt;
+&lt;li&gt;马克思，1857:《 &amp;lt; 政治经济学批判 &amp;gt; 导言》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;课堂讲义&#34;&gt;课堂讲义&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../lec1.pdf&#34;&gt;第一讲：经济与政治经济&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>第二讲：生产与占有</title>
@@ -38,25 +62,36 @@
     </item>
     
     <item>
-      <title>导论：经济与政治经济学</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</guid>
+      <title>第三讲：价值与商品拜物教</title>
+      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture3/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0100</pubDate>
+      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture3/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;介绍课程大纲、教学安排及考核要求等&lt;/li&gt;
-&lt;li&gt;概论资本主义发展史与当代经济问题&lt;/li&gt;
-&lt;li&gt;政治经济学的研究对象和方法论&lt;/li&gt;
+&lt;li&gt;商品的二因素与劳动的二重性&lt;/li&gt;
+&lt;li&gt;商品拜物教理论,重点理解价值背后的社会关系,掌握产品成为商品、劳动表现为价值的逻辑过
+程&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;阅读材料&#34;&gt;阅读材料&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;塞缪尔 · 鲍尔斯, 等,2013:《理解资本主义》 , 第一章&lt;/li&gt;
-&lt;li&gt;马克思，1857:《 &amp;lt; 政治经济学批判 &amp;gt; 导言》&lt;/li&gt;
+&lt;li&gt;徐禾,2017:《政治经济学概论》 , 第一章&lt;/li&gt;
+&lt;li&gt;Rubin, I. I.,1973:Essays on MARX’s Theory of Value.,Detroit Mich., Ch 1-17&lt;/li&gt;
+&lt;li&gt;Sen, A.,1978:“On the Labour Theory of Value: Some Methodological Issues”,Cambridge Journal
+of Economics,2(2) ,175-190&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;课堂讲义&#34;&gt;课堂讲义&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;../lec1.pdf&#34;&gt;第一讲：经济与政治经济&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../lec3.pdf&#34;&gt;第三讲：价值与商品拜物教&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;其它&#34;&gt;其它&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Ants.nlogo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetLogo 蚂蚁觅食模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Flocking.nlogo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetLogo 鸟群模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Computer%20Science/Cellular%20Automata/Life.nlogo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetLogo 二维元胞自动机模型Life&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
