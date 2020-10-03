@@ -3,7 +3,7 @@ title: 第四讲：简单线性模型
 linktitle: 劳动价值论：简单线性模型
 toc: true
 type: docs
-date: "2020-09-26T00:00:00+01:00"
+date: "2020-09-28T00:00:00+01:00"
 draft: false
 menu:
   pe2020fall:
