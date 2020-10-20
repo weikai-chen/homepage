@@ -27,6 +27,6 @@ weight: 6
  -  [第六讲：工人与工资](../lec6.pdf)
 
 
-{{< figure src="../rate-surplus-value.png" title="剩余价值率图示" >}}
+{{< figure src="../lec6.png" title="剩余价值率图示" >}}
 
 {{< figure src="../8-hour.png" title="1886年芝加哥工人斗争标语" >}}
