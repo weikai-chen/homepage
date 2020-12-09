@@ -1,5 +1,5 @@
 ---
-title: 第十一讲 利润与剥削
+title: 第十二讲 利润与剥削
 linktitle: 利润与剥削
 toc: true
 type: docs
