@@ -15,7 +15,7 @@ role: 助理教授
 # Organizations/Affiliations
 organizations:
 - name: 中国人民大学经济学院
-  url: ""
+  url: "http://econ.ruc.edu.cn/jszy/e60da55df93d4915b63e29e10b3f3e1d.htm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 中国人民大学经济学院助理教授，麻省大学阿默斯特分校经济系博士 
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=EYCkz5gAAAAJ&hl=en&authuser=1&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/weikai-chen
+  link: http://github.com/weikai-chen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
 
