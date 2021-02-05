@@ -16,7 +16,7 @@ all_day: false
 publishDate: "2019-10-12T00:00:00Z"
 
 authors: 
-- admin
+- Weikai Chen
 tags:
 - Okishio Theorem
 - Profitability

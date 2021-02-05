@@ -3,22 +3,22 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = true # This file represents a page section.
+active = false# Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "博客文章"
+title = "资料笔记"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "book"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 4
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 4
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"

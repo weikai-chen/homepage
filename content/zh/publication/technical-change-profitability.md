@@ -1,7 +1,7 @@
 ---
 title: "Technical Change, Income Distribution, and Profitability in Multisectoral Linear Economies"
 authors:
-- admin
+- Weikai Chen
 date: "2019-09-30T00:00:00Z"
 doi: ""
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weikai Chen</title>
-    <link>https://chen-weikai.gitee.io/homepage/en/authors/admin/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/en/authors/admin/</link>
+      <atom:link href="https://weikaichen.gitee.io/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Weikai Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021, 陈伟凯</copyright>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Weikai Chen</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/authors/admin/</link>
+      <link>https://weikaichen.gitee.io/en/authors/admin/</link>
     </image>
     
     <item>
       <title>Game Theory</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/teaching/econ702/</link>
+      <link>https://weikaichen.gitee.io/en/teaching/econ702/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/econ702/</guid>
+      <guid>https://weikaichen.gitee.io/en/teaching/econ702/</guid>
       <description>&lt;h1 id=&#34;course-information&#34;&gt;Course Information&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Itai Sher&lt;/li&gt;
@@ -52,33 +52,33 @@
     
     <item>
       <title>Technical Change, Income Distribution, and Profitability in Multisectoral Linear Economies</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/talk/nu-technical-change/</link>
+      <link>https://weikaichen.gitee.io/en/talk/nu-technical-change/</link>
       <pubDate>Sat, 02 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/talk/nu-technical-change/</guid>
+      <guid>https://weikaichen.gitee.io/en/talk/nu-technical-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recoverability from the Input-Output Data</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</link>
+      <link>https://weikaichen.gitee.io/en/talk/ape-recoverability/</link>
       <pubDate>Fri, 25 Oct 2019 16:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</guid>
+      <guid>https://weikaichen.gitee.io/en/talk/ape-recoverability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persistent Exploitation with Intertemporal Reproducible Solution in Pre-industrial Economies.</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/talk/jspe-exploitation/</link>
+      <link>https://weikaichen.gitee.io/en/talk/jspe-exploitation/</link>
       <pubDate>Sat, 19 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/talk/jspe-exploitation/</guid>
+      <guid>https://weikaichen.gitee.io/en/talk/jspe-exploitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical Change, Income Distribution, and Profitability in Multisectoral Linear Economies</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/publication/preprint/technical-change-profitability/</link>
+      <link>https://weikaichen.gitee.io/en/publication/preprint/technical-change-profitability/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/publication/preprint/technical-change-profitability/</guid>
+      <guid>https://weikaichen.gitee.io/en/publication/preprint/technical-change-profitability/</guid>
       <description>&lt;p&gt;Please find the updated version of this working paper 
 &lt;a href=&#34;https://people.umass.edu/weikaichen/files/JMP-Chen.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -86,9 +86,9 @@
     
     <item>
       <title>Emacs for R and Git</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-ess-r/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-ess-r/</link>
       <pubDate>Sun, 29 Sep 2019 15:57:11 -0400</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-ess-r/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-ess-r/</guid>
       <description>&lt;p&gt;I use 
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for
 almost everything I do with my laptop, such as note-taking, GTD,
@@ -647,9 +647,9 @@ And then enter you password and it&amp;rsquo;s done.
     
     <item>
       <title>The Microeconomics of Competition, Coordination, Cooperation and Conflict</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/teaching/econ700/</link>
+      <link>https://weikaichen.gitee.io/en/teaching/econ700/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/econ700/</guid>
+      <guid>https://weikaichen.gitee.io/en/teaching/econ700/</guid>
       <description>&lt;h1 id=&#34;course-information&#34;&gt;Course Information&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Samuel Bowles&lt;/li&gt;
@@ -685,9 +685,9 @@ And then enter you password and it&amp;rsquo;s done.
     
     <item>
       <title>Emacs Academic Tools</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-academic-tools/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-academic-tools/</link>
       <pubDate>Wed, 21 Aug 2019 15:57:11 -0400</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-academic-tools/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-academic-tools/</guid>
       <description>&lt;p&gt;I use 
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding and writing. In this post, I will share my customization and introduce some academic tools I use with Emacs.&lt;/p&gt;
 &lt;h2 id=&#34;emacs-as-a-latex-editor&#34;&gt;Emacs as a $\LaTeX$ editor&lt;/h2&gt;
@@ -1241,43 +1241,43 @@ For example, to edit the note, press &lt;code&gt;e&lt;/code&gt;, then it will op
     
     <item>
       <title>Persistent Exploitation with Intertemporal Reproducible Solution in Pre-industrial Economies</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/publication/preprint/persistent-exploitation/</link>
+      <link>https://weikaichen.gitee.io/en/publication/preprint/persistent-exploitation/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/publication/preprint/persistent-exploitation/</guid>
+      <guid>https://weikaichen.gitee.io/en/publication/preprint/persistent-exploitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Note on Math for Micro</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-for-micro/</link>
+      <link>https://weikaichen.gitee.io/en/teaching/note/math-for-micro/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-for-micro/</guid>
+      <guid>https://weikaichen.gitee.io/en/teaching/note/math-for-micro/</guid>
       <description>&lt;p&gt;This is a supplementary note for the discussion session of Econ 701 Spring 2019 at Umass Amherst, covering almost all the topics in the Appendix of MWG but with different order and more details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Math Camp @ Umass Amherst Summer 2017</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-camp/</link>
+      <link>https://weikaichen.gitee.io/en/teaching/note/math-camp/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/teaching/note/math-camp/</guid>
+      <guid>https://weikaichen.gitee.io/en/teaching/note/math-camp/</guid>
       <description>&lt;p&gt;These notes are prepared for the math review at Umass Amherst, Summer 2017.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Inequality and Evolution of Network Structure</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/talk/sfi-july-2017/</link>
+      <link>https://weikaichen.gitee.io/en/talk/sfi-july-2017/</link>
       <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/talk/sfi-july-2017/</guid>
+      <guid>https://weikaichen.gitee.io/en/talk/sfi-july-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matching Impacts of School Admission Mechanisms: An Agent-Based Approach</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/publication/journal-article/admission/</link>
+      <link>https://weikaichen.gitee.io/en/publication/journal-article/admission/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/publication/journal-article/admission/</guid>
+      <guid>https://weikaichen.gitee.io/en/publication/journal-article/admission/</guid>
       <description></description>
     </item>
     

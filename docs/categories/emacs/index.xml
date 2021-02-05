@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emacs | 陈伟凯</title>
-    <link>https://chen-weikai.gitee.io/homepage/categories/emacs/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/categories/emacs/</link>
+      <atom:link href="https://weikaichen.gitee.io/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     <description>emacs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>emacs</title>
-      <link>https://chen-weikai.gitee.io/homepage/categories/emacs/</link>
+      <link>https://weikaichen.gitee.io/categories/emacs/</link>
     </image>
     
     <item>
       <title>Writing Posts in Org using Ox-Hugo</title>
-      <link>https://chen-weikai.gitee.io/homepage/post/emacs-ox-hugo/</link>
+      <link>https://weikaichen.gitee.io/notes/emacs-ox-hugo/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0800</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/post/emacs-ox-hugo/</guid>
+      <guid>https://weikaichen.gitee.io/notes/emacs-ox-hugo/</guid>
       <description>&lt;p&gt;I use  
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
@@ -59,10 +59,10 @@ I add the following lines in the my configuration &lt;sup id=&#34;fnref:1&#34;&
 &lt;figure id=&#34;figure-writing-hugo-post-in-emacs-org-with-ox-hugo&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Writing Hugo Post in Emacs Org with ox-hugo&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Writing Hugo Post in Emacs Org with ox-hugo&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -112,9 +112,9 @@ A &lt;strong&gt;TODO&lt;/strong&gt; heading will make the post as a draft.&lt;/p
     
     <item>
       <title>Emacs for R and Git</title>
-      <link>https://chen-weikai.gitee.io/homepage/post/emacs-ess-r/</link>
+      <link>https://weikaichen.gitee.io/notes/emacs-ess-r/</link>
       <pubDate>Sun, 29 Sep 2019 15:57:11 -0400</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/post/emacs-ess-r/</guid>
+      <guid>https://weikaichen.gitee.io/notes/emacs-ess-r/</guid>
       <description>&lt;p&gt;I use 
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for
 almost everything I do with my laptop, such as note-taking, GTD,
@@ -155,10 +155,10 @@ configuration and usage of Emacs as an alternative to
 &lt;figure id=&#34;figure-r-session-in-emacs-with-ess&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-r-start_hu3750dd64ab30429f8f7d7217f20ad7b1_90356_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;R session in Emacs with ESS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-r-start_hu3750dd64ab30429f8f7d7217f20ad7b1_90356_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;R session in Emacs with ESS&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-r-start_hu3750dd64ab30429f8f7d7217f20ad7b1_90356_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-r-start_hu3750dd64ab30429f8f7d7217f20ad7b1_90356_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -199,10 +199,10 @@ configuration and usage of Emacs as an alternative to
 &lt;figure id=&#34;figure-ess-plot&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-r-plot_huc2c4f765a4c046e616a7f17abc3d8079_263072_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;ESS Plot&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-r-plot_huc2c4f765a4c046e616a7f17abc3d8079_263072_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;ESS Plot&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-r-plot_huc2c4f765a4c046e616a7f17abc3d8079_263072_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-r-plot_huc2c4f765a4c046e616a7f17abc3d8079_263072_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -242,10 +242,10 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 &lt;figure id=&#34;figure-clean-the-transcript-command&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-r-clean_hu78acff128da22c38621af7d900acf400_93127_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Clean the Transcript: Command&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-r-clean_hu78acff128da22c38621af7d900acf400_93127_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Clean the Transcript: Command&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-r-clean_hu78acff128da22c38621af7d900acf400_93127_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-r-clean_hu78acff128da22c38621af7d900acf400_93127_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -284,10 +284,10 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 &lt;figure id=&#34;figure-clean-the-transcript-result&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-r-clean-result_huf452b550e9d84582c70889915a235176_170460_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Clean the Transcript: Result&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-r-clean-result_huf452b550e9d84582c70889915a235176_170460_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Clean the Transcript: Result&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-r-clean-result_huf452b550e9d84582c70889915a235176_170460_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-r-clean-result_huf452b550e9d84582c70889915a235176_170460_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -371,10 +371,10 @@ You can also save the buffer as usual in a file and edit it. One useful command 
 &lt;figure id=&#34;figure-r-code-block-in-org&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-org-r-plot_hue8b228264df7c3aaabe8fd31a6b9e9a1_74098_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;R code block in org.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-org-r-plot_hue8b228264df7c3aaabe8fd31a6b9e9a1_74098_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;R code block in org.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-org-r-plot_hue8b228264df7c3aaabe8fd31a6b9e9a1_74098_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-org-r-plot_hue8b228264df7c3aaabe8fd31a6b9e9a1_74098_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -414,10 +414,10 @@ To export, press &lt;code&gt;C-c C-e&lt;/code&gt; and choose the format you&amp;
 &lt;figure id=&#34;figure-export-the-result-with-the-r-code-and-the-result&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-org-r-export_hudbbe2a45dbe4bb64154b7324c67700e0_209003_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Export the result with the R code and the result.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-org-r-export_hudbbe2a45dbe4bb64154b7324c67700e0_209003_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Export the result with the R code and the result.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-org-r-export_hudbbe2a45dbe4bb64154b7324c67700e0_209003_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-org-r-export_hudbbe2a45dbe4bb64154b7324c67700e0_209003_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -473,10 +473,10 @@ stargazer(linear.1, linear.2, probit.model, title=&amp;quot;Results&amp;quot;, a
 &lt;figure id=&#34;figure-export-the-results-of-ols-in-a-table&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-org-r-export-table_huf16a753b8e817ce4e74772461e4b0e3b_263481_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Export the Results of OLS in a Table.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-org-r-export-table_huf16a753b8e817ce4e74772461e4b0e3b_263481_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Export the Results of OLS in a Table.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-org-r-export-table_huf16a753b8e817ce4e74772461e4b0e3b_263481_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-org-r-export-table_huf16a753b8e817ce4e74772461e4b0e3b_263481_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -521,10 +521,10 @@ stargazer(linear.1, linear.2, probit.model, title=&amp;quot;Results&amp;quot;, a
 &lt;figure id=&#34;figure-get-git-status-by-c-x-g&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-git-stage_hu8cd141a5daf8535c1858ef7402229d35_29502_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Get git status by &amp;lt;code&amp;gt;C-x g&amp;lt;/code&amp;gt;.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-git-stage_hu8cd141a5daf8535c1858ef7402229d35_29502_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Get git status by &amp;lt;code&amp;gt;C-x g&amp;lt;/code&amp;gt;.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-git-stage_hu8cd141a5daf8535c1858ef7402229d35_29502_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-git-stage_hu8cd141a5daf8535c1858ef7402229d35_29502_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -564,10 +564,10 @@ To commit, press &lt;code&gt;c&lt;/code&gt; you will see a menu, then press &lt;
 &lt;figure id=&#34;figure-git-commit&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-git-commit_hu47f64455b354df07923a90db455384fc_103107_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Git Commit.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-git-commit_hu47f64455b354df07923a90db455384fc_103107_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Git Commit.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-git-commit_hu47f64455b354df07923a90db455384fc_103107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-git-commit_hu47f64455b354df07923a90db455384fc_103107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -607,10 +607,10 @@ To Push, press &lt;code&gt;P&lt;/code&gt;, and choose the place to push, e.g., &
 &lt;figure id=&#34;figure-git-push&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-git-push_hu44d73e59bf3a68bb77b2156c73f095e0_34249_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Git Push.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-git-push_hu44d73e59bf3a68bb77b2156c73f095e0_34249_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Git Push.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-git-push_hu44d73e59bf3a68bb77b2156c73f095e0_34249_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-git-push_hu44d73e59bf3a68bb77b2156c73f095e0_34249_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 
@@ -650,10 +650,10 @@ And then enter you password and it&amp;rsquo;s done.
 &lt;figure id=&#34;figure-the-git-status-after-push&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ess-r/screenshot-git-after-push_hu14732b3d493f5d1fe2f4721f9cf3ceb7_96454_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The git status after Push.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ess-r/screenshot-git-after-push_hu14732b3d493f5d1fe2f4721f9cf3ceb7_96454_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The git status after Push.&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ess-r/screenshot-git-after-push_hu14732b3d493f5d1fe2f4721f9cf3ceb7_96454_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ess-r/screenshot-git-after-push_hu14732b3d493f5d1fe2f4721f9cf3ceb7_96454_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 

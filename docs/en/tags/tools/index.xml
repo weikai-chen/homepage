@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tools | Weikai Chen</title>
-    <link>https://chen-weikai.gitee.io/homepage/en/tags/tools/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/en/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/en/tags/tools/</link>
+      <atom:link href="https://weikaichen.gitee.io/en/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>tools</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>tools</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/tags/tools/</link>
+      <link>https://weikaichen.gitee.io/en/tags/tools/</link>
     </image>
     
     <item>
       <title>Writing Posts in Org using Ox-Hugo</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-ox-hugo/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-ox-hugo/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0800</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-ox-hugo/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-ox-hugo/</guid>
       <description>&lt;p&gt;I use  
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
@@ -112,9 +112,9 @@ A &lt;strong&gt;TODO&lt;/strong&gt; heading will make the post as a draft.&lt;/p
     
     <item>
       <title>SageMath in Emacs</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-sagemath/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-sagemath/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-sagemath/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-sagemath/</guid>
       <description>&lt;p&gt;I use  
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),

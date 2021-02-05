@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>org | 陈伟凯</title>
-    <link>https://chen-weikai.gitee.io/homepage/tags/org/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/tags/org/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/tags/org/</link>
+      <atom:link href="https://weikaichen.gitee.io/tags/org/index.xml" rel="self" type="application/rss+xml" />
     <description>org</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>org</title>
-      <link>https://chen-weikai.gitee.io/homepage/tags/org/</link>
+      <link>https://weikaichen.gitee.io/tags/org/</link>
     </image>
     
     <item>
       <title>Writing Posts in Org using Ox-Hugo</title>
-      <link>https://chen-weikai.gitee.io/homepage/post/emacs-ox-hugo/</link>
+      <link>https://weikaichen.gitee.io/notes/emacs-ox-hugo/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0800</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/post/emacs-ox-hugo/</guid>
+      <guid>https://weikaichen.gitee.io/notes/emacs-ox-hugo/</guid>
       <description>&lt;p&gt;I use  
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
@@ -59,10 +59,10 @@ I add the following lines in the my configuration &lt;sup id=&#34;fnref:1&#34;&
 &lt;figure id=&#34;figure-writing-hugo-post-in-emacs-org-with-ox-hugo&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../../post/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Writing Hugo Post in Emacs Org with ox-hugo&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../../notes/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Writing Hugo Post in Emacs Org with ox-hugo&#34;&gt;
 
 
-  &lt;img data-src=&#34;../../post/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
+  &lt;img data-src=&#34;../../notes/emacs-ox-hugo/hugo-screenshot_hua35a9f17412b8421b45b107caad8eb87_160238_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;939&#34; height=&#34;1028&#34;&gt;
 &lt;/a&gt;
 
 

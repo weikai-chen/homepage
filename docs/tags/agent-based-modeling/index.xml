@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agent-based Modeling | 陈伟凯</title>
-    <link>https://chen-weikai.gitee.io/homepage/tags/agent-based-modeling/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/tags/agent-based-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/tags/agent-based-modeling/</link>
+      <atom:link href="https://weikaichen.gitee.io/tags/agent-based-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Agent-based Modeling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Thu, 06 Jul 2017 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Agent-based Modeling</title>
-      <link>https://chen-weikai.gitee.io/homepage/tags/agent-based-modeling/</link>
+      <link>https://weikaichen.gitee.io/tags/agent-based-modeling/</link>
     </image>
     
     <item>
       <title>Inequality and Evolution of Network Structure</title>
-      <link>https://chen-weikai.gitee.io/homepage/talk/sfi-july-2017/</link>
+      <link>https://weikaichen.gitee.io/talk/sfi-july-2017/</link>
       <pubDate>Thu, 06 Jul 2017 16:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/talk/sfi-july-2017/</guid>
+      <guid>https://weikaichen.gitee.io/talk/sfi-july-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matching Impacts of School Admission Mechanisms: An Agent-Based Approach</title>
-      <link>https://chen-weikai.gitee.io/homepage/publication/admission/</link>
+      <link>https://weikaichen.gitee.io/publication/admission/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/publication/admission/</guid>
+      <guid>https://weikaichen.gitee.io/publication/admission/</guid>
       <description></description>
     </item>
     

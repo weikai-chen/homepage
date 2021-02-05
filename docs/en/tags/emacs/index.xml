@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emacs | Weikai Chen</title>
-    <link>https://chen-weikai.gitee.io/homepage/en/tags/emacs/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/en/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/en/tags/emacs/</link>
+      <atom:link href="https://weikaichen.gitee.io/en/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <description>Emacs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Emacs</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/tags/emacs/</link>
+      <link>https://weikaichen.gitee.io/en/tags/emacs/</link>
     </image>
     
     <item>
       <title>Writing Posts in Org using Ox-Hugo</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-ox-hugo/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-ox-hugo/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0800</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-ox-hugo/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-ox-hugo/</guid>
       <description>&lt;p&gt;I use  
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
@@ -112,9 +112,9 @@ A &lt;strong&gt;TODO&lt;/strong&gt; heading will make the post as a draft.&lt;/p
     
     <item>
       <title>SageMath in Emacs</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-sagemath/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-sagemath/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-sagemath/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-sagemath/</guid>
       <description>&lt;p&gt;I use  
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding
 and writing. In previous posts, I introduced some packages and my workflow in Emacs for \(\LaTeX\),
@@ -273,9 +273,9 @@ find_root(g, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span 
     
     <item>
       <title>Emacs for R and Git</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-ess-r/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-ess-r/</link>
       <pubDate>Sun, 29 Sep 2019 15:57:11 -0400</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-ess-r/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-ess-r/</guid>
       <description>&lt;p&gt;I use 
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for
 almost everything I do with my laptop, such as note-taking, GTD,
@@ -834,9 +834,9 @@ And then enter you password and it&amp;rsquo;s done.
     
     <item>
       <title>Emacs Academic Tools</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/post/emacs-academic-tools/</link>
+      <link>https://weikaichen.gitee.io/en/post/emacs-academic-tools/</link>
       <pubDate>Wed, 21 Aug 2019 15:57:11 -0400</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/post/emacs-academic-tools/</guid>
+      <guid>https://weikaichen.gitee.io/en/post/emacs-academic-tools/</guid>
       <description>&lt;p&gt;I use 
 &lt;a href=&#34;https://www.gnu.org/software/emacs/emacs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; for almost everything I do with my laptop, such as note-taking, GTD, email-checking, coding and writing. In this post, I will share my customization and introduce some academic tools I use with Emacs.&lt;/p&gt;
 &lt;h2 id=&#34;emacs-as-a-latex-editor&#34;&gt;Emacs as a $\LaTeX$ editor&lt;/h2&gt;

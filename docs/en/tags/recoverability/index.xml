@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recoverability | Weikai Chen</title>
-    <link>https://chen-weikai.gitee.io/homepage/en/tags/recoverability/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/en/tags/recoverability/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/en/tags/recoverability/</link>
+      <atom:link href="https://weikaichen.gitee.io/en/tags/recoverability/index.xml" rel="self" type="application/rss+xml" />
     <description>Recoverability</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Fri, 25 Oct 2019 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recoverability</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/tags/recoverability/</link>
+      <link>https://weikaichen.gitee.io/en/tags/recoverability/</link>
     </image>
     
     <item>
       <title>Recoverability from the Input-Output Data</title>
-      <link>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</link>
+      <link>https://weikaichen.gitee.io/en/talk/ape-recoverability/</link>
       <pubDate>Fri, 25 Oct 2019 16:00:00 +0000</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/en/talk/ape-recoverability/</guid>
+      <guid>https://weikaichen.gitee.io/en/talk/ape-recoverability/</guid>
       <description></description>
     </item>
     

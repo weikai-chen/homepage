@@ -18,11 +18,11 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "classic"
+#font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -90,7 +90,7 @@ email = "weikaichen@ruc.edu.cn"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "海淀区中关村路59号", city = "北京市", region = "", postcode = "100872", country = "中国", country_code = "CN"}
+address = {street= "中国人民大学明德商学楼411B"}#{street = "海淀区中关村路59号", city = "北京市", region = "", postcode = "100872", country = "中国", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -101,16 +101,16 @@ address = {street = "海淀区中关村路59号", city = "北京市", region = "
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []#, "Wednesday 09:00 to 10:00"]
+office_hours = ["周二下午2:00-4:00或预约"]#, "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/weikaichen/officehours"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

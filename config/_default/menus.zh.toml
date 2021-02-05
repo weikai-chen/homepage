@@ -9,19 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "博文"
-  url = "#posts"
-  weight = 55
+  name = "笔记"
+  url = "notes"
+  weight = 70
 
 [[main]]
  name = "报告"
  url = "#talks"
- weight = 60
+ weight = 30
 
 [[main]]
   name = "科研"
   url = "#publications"
-  weight = 40
+  weight = 20
 
 [[main]]
    name = "教学"
@@ -31,11 +31,11 @@
 [[main]]
   name = "联系"
   url = "#contact"
-  weight = 65
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "简历"
   url = "files/cv-zh.pdf"
-  weight = 70
+  weight = 90

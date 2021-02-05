@@ -2,7 +2,7 @@
 title: "Matching Impacts of School Admission Mechanisms: An Agent-Based Approach"
 authors:
 - "Shu-heng Chen"
-- admin
+- Weikai Chen
 - Connie H Wang
 
 date: "2017-03-01T00:00:00Z"

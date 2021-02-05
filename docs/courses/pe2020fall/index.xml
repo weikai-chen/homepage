@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>政治经济学 | 陈伟凯</title>
-    <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/</link>
-      <atom:link href="https://chen-weikai.gitee.io/homepage/courses/pe2020fall/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://weikaichen.gitee.io/courses/pe2020fall/</link>
+      <atom:link href="https://weikaichen.gitee.io/courses/pe2020fall/index.xml" rel="self" type="application/rss+xml" />
     <description>政治经济学</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chen-weikai.gitee.io/homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>政治经济学</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/</link>
     </image>
     
     <item>
       <title>导论：经济与政治经济学</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture1/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture1/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture1/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;介绍课程大纲、教学安排及考核要求等&lt;/li&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>第二讲：生产与占有</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture2/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture2/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture2/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture2/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;历史唯物主义与物质生产一般,重点掌握剩余产品、阶级等概念&lt;/li&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>第三讲：价值与商品拜物教</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture3/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture3/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture3/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture3/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;商品的二因素与劳动的二重性&lt;/li&gt;
@@ -98,9 +98,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第四讲：简单线性模型</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture4/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture4/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture4/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture4/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;理解简单线性模型价值的两种诠释&lt;/li&gt;
@@ -154,9 +154,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第五讲：资本与异化</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture5/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture5/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture5/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture5/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;剩余价值理论,重点掌握剩余价值的生产与占有&lt;/li&gt;
@@ -180,9 +180,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第六讲：工人与工资</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture6/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture6/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture6/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture6/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;工资理论:理解工资的实质与形式,以及工资的决定&lt;/li&gt;
@@ -279,9 +279,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第七讲 劳动过程：管理与榨取</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture7/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture7/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture7/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture7/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;理解劳动过程与劳动力市场交换的区别&lt;/li&gt;
@@ -307,9 +307,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第八讲 劳动过程：技术与组织</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture8/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture8/</link>
       <pubDate>Tue, 03 Nov 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture8/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture8/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;重点掌握资本主义劳动过程中劳资关系和技术、组织之间的互动,了解相关历史案例&lt;/li&gt;
@@ -334,9 +334,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第九讲 资本的积累过程</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture9/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture9/</link>
       <pubDate>Tue, 10 Nov 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture9/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture9/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;重点掌握资本积累的过程与本质&lt;/li&gt;
@@ -362,9 +362,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第十讲 资本的循环与周转</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture10/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture10/</link>
       <pubDate>Tue, 10 Nov 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture10/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture10/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;重点掌握产业资本循环的三个阶段和形态&lt;/li&gt;
@@ -387,9 +387,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第十一讲 社会总资本的再生产与“实现”问题</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture11/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture11/</link>
       <pubDate>Tue, 10 Nov 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture11/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture11/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;掌握马克思两部类再生产图式&lt;/li&gt;
@@ -415,9 +415,9 @@ of Economics,2(2) ,175-190&lt;/li&gt;
     
     <item>
       <title>第十二讲 利润与剥削</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture12/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture12/</link>
       <pubDate>Wed, 02 Dec 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture12/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture12/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;理解资本主义当事人观念中成本价格、利润与利润率等范畴&lt;/li&gt;
@@ -449,9 +449,9 @@ pp. 1421-1448.&lt;/li&gt;
     
     <item>
       <title>第十三讲 技术进步与利润率下降趋势</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture13/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture13/</link>
       <pubDate>Tue, 08 Dec 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture13/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture13/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;掌握平均利润率下降趋势规律本身、反作用因素及后果&lt;/li&gt;
@@ -472,9 +472,9 @@ pp. 1421-1448.&lt;/li&gt;
     
     <item>
       <title>第十四讲 商业资本与国际间不平等交换</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture14/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture14/</link>
       <pubDate>Tue, 15 Dec 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture14/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture14/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;理解资本主义商业资本与产业资本的关系&lt;/li&gt;
@@ -496,9 +496,9 @@ pp. 1421-1448.&lt;/li&gt;
     
     <item>
       <title>第十五讲 借贷资本与地租：收入的源泉与资本化的逻辑</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture15/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture15/</link>
       <pubDate>Tue, 22 Dec 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture15/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture15/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;重点理解利润分割为企业利润与利息的理论逻辑,了解地租的各种形态&lt;/li&gt;
@@ -520,9 +520,9 @@ pp. 1421-1448.&lt;/li&gt;
     
     <item>
       <title>第十六讲 周期与危机；结语</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture16/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/lecture16/</link>
       <pubDate>Tue, 29 Dec 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/lecture16/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/lecture16/</guid>
       <description>&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;危机的不同含义&lt;/li&gt;
@@ -544,9 +544,9 @@ pp. 1421-1448.&lt;/li&gt;
     
     <item>
       <title>第一次课程作业</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/homework1/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/homework1/</link>
       <pubDate>Tue, 03 Nov 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/homework1/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/homework1/</guid>
       <description>&lt;h3 id=&#34;作业要求&#34;&gt;作业要求&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;本次作业共有 6 道题,满分 100 分,占平时成绩 15%&lt;/li&gt;
@@ -560,9 +560,9 @@ pp. 1421-1448.&lt;/li&gt;
     
     <item>
       <title>第二次课程作业</title>
-      <link>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/homework2/</link>
+      <link>https://weikaichen.gitee.io/courses/pe2020fall/homework2/</link>
       <pubDate>Tue, 15 Dec 2020 00:20:30 +0100</pubDate>
-      <guid>https://chen-weikai.gitee.io/homepage/courses/pe2020fall/homework2/</guid>
+      <guid>https://weikaichen.gitee.io/courses/pe2020fall/homework2/</guid>
       <description>&lt;h3 id=&#34;作业要求&#34;&gt;作业要求&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;本次作业共有 6 道题,满分 100 分,占平时成绩 15%&lt;/li&gt;

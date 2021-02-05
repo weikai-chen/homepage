@@ -16,7 +16,7 @@ all_day: true
 publishDate: "2017-07-27T00:00:00Z"
 
 authors: 
-- admin
+- Weikai Chen
 tags:
 - Inequality
 - Network Formation
