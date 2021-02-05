@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>概率 | 陈伟凯</title>
+    <link>https://weikaichen.gitee.io/tags/%E6%A6%82%E7%8E%87/</link>
+      <atom:link href="https://weikaichen.gitee.io/tags/%E6%A6%82%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>概率</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>©2021, 陈伟凯</copyright><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://weikaichen.gitee.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>概率</title>
+      <link>https://weikaichen.gitee.io/tags/%E6%A6%82%E7%8E%87/</link>
+    </image>
+    
+    <item>
+      <title>积分(Integration)</title>
+      <link>https://weikaichen.gitee.io/notes/pset/integration/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0800</pubDate>
+      <guid>https://weikaichen.gitee.io/notes/pset/integration/</guid>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;这是本系列的第一部分，在进入概率论之前，我们会先讨论勒贝格(Lebesgue) 积分和简单的测度论。&lt;/p&gt;
+&lt;p&gt;首先我们要问，我们已经有了微积分中学到的黎曼积分，为什么要引入另外的一种积分？
+我们知道黎曼积分有一些不错的性质，如微积分基本定理等。另外，如果\(f_n:[a,b]\to \mathbb{R}\) 一致收敛到\(f\)的话，还有“ &lt;strong&gt;积分的极限等于极限的积分&lt;/strong&gt; ”。但是黎曼积分也有一些不足：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有一些我们觉得应该可以积分的函数却不可积，比如\(f=\chi_{\mathbb{Q}\cap [0,1]}\)，即\([0,1]\)上有理数集的特征函数，它在有理数上取 1，无理数取 0. 由于有理数在实数集上是稠密的(dense)，不管划的小区间有多小，上面总是同时存在有理数和无理数，因此，在每个小区间上取出来的函数值或是 1 或是 0，所以有达布上积分为 1，达布下积分为 0，二者不等，故黎曼不可积&lt;/li&gt;
+&lt;li&gt;如果没有一致收敛的条件，没有办法保证\[ f_n\to f\Longrightarrow \int f_n(x)dx \to \int f(x) dx\]&lt;/li&gt;
+&lt;li&gt;黎曼积分不能推扩到其它情形，如在我们要讨论的概率论中，我们知道期望对应的就是积分，但是如果随机变量不是单纯的离散或连续型的，而是一般情形的话，只用黎曼积分就不好处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;勒贝格积分就比较好的处理了上述的困难，类似于通过引入无理数使得有理数集完备化，勒贝格可积函数空间也是对黎曼可积函数空间的完备化，其构造的关键想法是&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不是通过积分来定义集合的测度（长度），而是直接定义的一个集合的测度，再由此定义积分&lt;/li&gt;
+&lt;li&gt;不分割定义域然后用阶梯函数逼近，而是分割值域然后用“简单函数”逼近。就像在加总班级考试成绩的时候，我不是一个一个相加，而是做成一个频数分布直图，知道各个分数各个多少人，然后汇总。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;当然在实数上构造勒贝格积分有多种方式，这些并不是我们关注的重点，因为一旦得到了 &lt;strong&gt;单调收敛定理&lt;/strong&gt; (Monotone Convergence Theorem, MCT) 后就都没有区别了，我们重点是要看由此可以得到的一系列重要定理。&lt;/p&gt;
+&lt;p&gt;另外，勒贝格积分是对黎曼积分的一种拓展，让我们可以积更多的函数，如果一个函数本来就是黎曼可积的，那么它肯定是勒贝格可积的，而且算出来的积分相同。事实上，我们在计算积分的时候基本上还是用黎曼积分。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
