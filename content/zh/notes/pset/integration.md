@@ -2,12 +2,13 @@
 title = "积分(Integration)"
 author = ["陈伟凯"]
 date = 2021-02-03
-lastmod = 2021-02-05T11:28:11+08:00
+lastmod = 2021-02-07T23:40:01+08:00
 tags = ["概率", "统计"]
 categories = ["Notes"]
-type = "book"
+type = "docs"
 draft = false
 weight = 2001
+toc = true
 linktitle = "Integration"
 [menu.PSET]
   weight = 2001
@@ -33,3 +34,43 @@ linktitle = "Integration"
 当然在实数上构造勒贝格积分有多种方式，这些并不是我们关注的重点，因为一旦得到了 **单调收敛定理** (Monotone Convergence Theorem, MCT) 后就都没有区别了，我们重点是要看由此可以得到的一系列重要定理。
 
 另外，勒贝格积分是对黎曼积分的一种拓展，让我们可以积更多的函数，如果一个函数本来就是黎曼可积的，那么它肯定是勒贝格可积的，而且算出来的积分相同。事实上，我们在计算积分的时候基本上还是用黎曼积分。
+
+
+## 勒贝格测度 {#勒贝格测度}
+
+我们知道一个区间\\([a,b]\\)的长度是\\(b-a\\)，测度（measure）想要把长度推广到\\(\mathbb{R}\\)的其它子集上，一般地说，我们考虑一个函数\\(m:\mathcal{P}(\mathbb{R})\to [0,\infty]\\)，其中\\(\mathcal{P}(\mathbb{R})\\)是\\(\mathbb{R}\\)的所有子集，即幂集（power set）,\\([0,\infty]\\)是拓展非负实数集\\([0,\infty)\cup\infty\\).
+一个测度函数应当满足一些我们认为需要满足的性质：
+
+1.  空集和单点集测度为零： \\(m(\emptyset)=0,m(\\{x\\})=0\\);
+2.  区间测度等于其长度：\\(m((a,b)) = b-a\\)\\);
+3.  平移不变性：\\(m(A+x)=m(A)\\);
+4.  \\(m(\alpha A)=|\alpha |m(A)\\)
+5.  可数可加性：\\(m(\bigcup\_{n=1}^{\infty} = \sum\_{n=1}^{\infty} m(A\_{n}\\)若\\(A\_{n}\cap A\_{k}=\emptyset\\)对任意\\(n\neq k\\)
+
+其中由 1 和 5 可以推出
+
+-   单调性：\\(A\subseteq B \Rightarrow m(A)\leq m(B)\\);
+-   有限可加性：\\(m(A\cup B) = m(A) + m(B)\\)若\\(A\cap B=\emptyset\\)
+-   \\(m(\bigcup\_{n=1}^{\infty}A\_{n} = \lim\_{n\to\infty}m(A\_{n})\\)若\\(A\_{n}\\)递增
+
+接下来就是构造一个满足上述性质的函数，首先要满足性质 2,定义区间测度等于其长度，然后很自然地对其它集合\\(A\subseteq \mathbb{R}\\)，我们就用覆盖它的区间的长度来逼近
+
+\begin{equation}
+m^{\*}(A)=\inf \\{\sum\_{n=1}^{\infty}m(I\_{n}): A\subseteq \bigcup\_{n=1}^{\infty}I\_{n}\\}
+\end{equation}
+
+我们称上述函数为 **外测度** (outer measure），可以证明这个函数满足上述性质 1-4 以及单调性和有限可加性。如果它满足可数可加性的话，就是我们要的测度。可惜的是，对有一些奇怪的集合这个性质并不满足。不过这种奇怪集合的构造依赖于选择公理（Axiom of Choice），因而我们转而对测度函数的定义域进行一定的限制以排除这种奇怪的集合，剩下的集合称之为勒贝格可测。有不同方式可以进行限定，比如定义
+\\(E\subset \mathbb{R}\\)可测若\\[m^{\*}(A)=m^{\*}(A\cap E) + m^{\*}(A\setminus E)\quad \forall A\subseteq \mathbb{R}\\]
+用\\(\mathcal{M}\_{\mathrm{Leb}}\\)指代所有可测集的集合，可以证明：
+
+1.  任意区间\\(I\in\mathcal{M}\_{\mathrm{Leb}}\\)
+2.  若\\(E\in\mathcal{M}\_{\mathrm{Leb}}\\)，则\\(\mathbb{R}\setminus E\in\mathcal{M}\_{\mathrm{Leb}}\\)
+3.  若\\(E\_{n}\in\mathcal{M}\_{\mathrm{Leb}}, n=1,2,\ldots\\)，则\\(\cup\_{n=1}^{\infty}E\_{n}\in\mathcal{M}\_{\mathrm{Leb}}\\)
+
+由于实数集上的任意开集都可以表示为可数个区间的并，由上述性质 1 和 3 可以知实数集上的任意开集均可测。进而由性质 2 可知任意闭集也可测。
+
+最后把外测度\\(m^{\*}\\)限制在
+\\(\mathcal{M}\_{\mathrm{Leb}}\\)上，记为\\(m:\mathcal{M}\_{\mathrm{Leb}}\to[0,\infty]\\)，则可以证明它具有可列可加性，从而满足所有测度的性质。
+
+
+## 测度空间与可测函数 {#测度空间与可测函数}

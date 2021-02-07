@@ -6,7 +6,7 @@ linktitle: PSET
 # Page metadata.
 title: Note on Probability, Statistics, Econometrics and Time Series Analysis 
 date: 2020-02-05
-type: book # Do not modify.
+type: docs # Do not modify.
 menu:
   pset:
     name: PSET
