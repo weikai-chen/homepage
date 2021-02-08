@@ -627,6 +627,7 @@ m^{*}(A)=\inf \{\sum_{n=1}^{\infty}m(I_{n}): A\subseteq \bigcup_{n=1}^{\infty}I_
 &lt;p&gt;由于实数集上的任意开集都可以表示为可数个区间的并，由上述性质 1 和 3 可以知实数集上的任意开集均可测。进而由性质 2 可知任意闭集也可测。&lt;/p&gt;
 &lt;p&gt;最后把外测度\(m^{*}:\mathcal{P}(\mathbb{R})\to [0,\infty]\)限制在
 \(\mathcal{M}_{\mathrm{Leb}}\)上，记为\(m:\mathcal{M}_{\mathrm{Leb}}\to[0,\infty]\)，则可以证明它具有可列可加性，从而满足所有测度的性质。&lt;/p&gt;
+&lt;h2 id=&#34;测度空间与可测函数&#34;&gt;测度空间与可测函数&lt;/h2&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

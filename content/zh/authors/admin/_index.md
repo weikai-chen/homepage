@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 助理教授
+role: 讲师 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://econ.ruc.edu.cn/jszy/e60da55df93d4915b63e29e10b3f3e1d.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 中国人民大学经济学院助理教授，马萨诸塞大学阿默斯特分校经济系博士 
+bio: 中国人民大学经济学院讲师，马萨诸塞大学阿默斯特分校经济系博士 
 
 interests:
 - 政治经济学
@@ -74,4 +74,4 @@ email: ""
 # user_groups: `[]`
 
 --- 
-陈伟凯，马萨诸塞大学阿默斯特分校经济学博士，现为中国人民大学经济学院政治经济学教研室助理教授，研究领域包括马克思主义政治经济学、数理经济学等，致力于运用现代分析工具推动政治经济学的创新发展，关注的议题包括不平等，中国经济和当代资本主义等。
+陈伟凯，马萨诸塞大学阿默斯特分校经济学博士，现为中国人民大学经济学院政治经济学教研室讲师，研究领域包括马克思主义政治经济学、数理经济学等，致力于运用现代分析工具推动政治经济学的创新发展，关注的议题包括不平等，中国经济和当代资本主义等。
